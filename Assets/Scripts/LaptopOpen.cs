@@ -4,9 +4,11 @@ using UnityEngine;
 
 public class LaptopOpen : MonoBehaviour
 {
+	[SerializeField] private GameObject playerCamera;
+	[SerializeField] private GameObject camera;
 	[SerializeField] private Animator _LaptopOpen;	
 	public bool _isOpened;
-	[SerializeField] private Transform Player;
+	[SerializeField] private GameObject player;
 	[SerializeField] private GameObject gameObject;
 
 
@@ -18,16 +20,16 @@ public class LaptopOpen : MonoBehaviour
 	void OnMouseOver()
 	{
 		{
-			if (Player)
+			if (player)
 			{
-				float dist = Vector3.Distance(Player.position, transform.position);
+				float dist = Vector3.Distance(player.transform.position, transform.position);
 				if (dist < 15)
 				{
 					if (_isOpened == false)
 					{
+						
 						if (Input.GetMouseButtonDown(0))
-						{
-							
+						{							
 							StartCoroutine(opening());
 						}
 					}
@@ -55,20 +57,26 @@ public class LaptopOpen : MonoBehaviour
 	}
 	IEnumerator opening()
 	{
-		print("you are opening the laptop");
-		
+		print("you are opening the laptop");		
 		_LaptopOpen.Play("CloseLaptop");	
-		_isOpened = true;
-		yield return new WaitForSeconds(.8f);
+		_isOpened = true;		
+		playerCamera.SetActive(false);
+		camera.SetActive(true);
+		yield return new WaitForSeconds(2f);
 		gameObject.SetActive(true);
+
+		player.GetComponent<FirstPersonController>().enabled = false;
 	}
 
 	IEnumerator closing()
 	{
-		gameObject.SetActive(false);		
+		gameObject.SetActive(false);
+		playerCamera.SetActive(true);
+		camera.SetActive(false);
 		yield return new WaitForSeconds(.8f);
 		print("you are closing the laptop");
 		_LaptopOpen.Play("OpenLaptop");
 		_isOpened = false;
+		player.GetComponent<FirstPersonController>().enabled = true;
 	}
 }

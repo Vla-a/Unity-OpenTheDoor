@@ -17,7 +17,7 @@ using UnityEngine.UI;
 public class FirstPersonController : MonoBehaviour
 {
     private Rigidbody rb;
-
+    [SerializeField] private Animator animator;
     #region Camera Movement Variables
 
     public Camera playerCamera;
@@ -151,7 +151,8 @@ public class FirstPersonController : MonoBehaviour
 
     void Start()
     {
-        if(lockCursor)
+       
+        if (lockCursor)
         {
             Cursor.lockState = CursorLockMode.Locked;
         }
@@ -378,10 +379,12 @@ public class FirstPersonController : MonoBehaviour
             if (targetVelocity.x != 0 || targetVelocity.z != 0 && isGrounded)
             {
                 isWalking = true;
+                animator.SetBool("isStaf", true);
             }
             else
             {
                 isWalking = false;
+                animator.SetBool("isStaf", false);
             }
 
             // All movement calculations shile sprint is active

@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2022-02-04T12:21:40.382+03:00
-  initializedAtString: 2022-02-04T12:14:57.274+03:00
+  lastUpdatedAtString: 2022-02-07T08:16:21.111+03:00
+  initializedAtString: 2022-02-07T08:16:21.111+03:00
   currentGitRemote:
     name: origin
     url: git@github.com:Vla-a/Unity-OpenTheDoor.git
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: main
-    tracking: 
+    tracking: origin/main
   currentConfigBranch:
     name: main
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: git@github.com:Vla-a/Unity-OpenTheDoor.git
+    trackingBranch: main
   currentConfigRemote:
     name: origin
     url: git@github.com:Vla-a/Unity-OpenTheDoor.git
