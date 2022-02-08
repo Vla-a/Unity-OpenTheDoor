@@ -64,12 +64,13 @@ public class LaptopOpen : MonoBehaviour
 		camera.SetActive(true);
 		yield return new WaitForSeconds(2f);
 		gameObject.SetActive(true);
-
 		player.GetComponent<FirstPersonController>().enabled = false;
+		Cursor.lockState = CursorLockMode.None;
 	}
 
 	IEnumerator closing()
 	{
+		Cursor.lockState = CursorLockMode.Locked;
 		gameObject.SetActive(false);
 		playerCamera.SetActive(true);
 		camera.SetActive(false);

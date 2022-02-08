@@ -5,34 +5,17 @@ using UnityEngine;
 
 public class GameController : MonoBehaviour
 {
-    [SerializeField] GameObject inventary;
-    private bool graet = false;
+    public static GameController Instance;
+    public event Action<string> OnDoorOpen;
 
-    private void Update()
+    private void Awake()
     {
-        if(Input.GetKeyDown(KeyCode.Q) && !graet)
-        {
-            inventary.SetActive(true);
-            graet = true;
-        }
-        else if(Input.GetKeyDown(KeyCode.Q) && graet)
-            {
-            inventary.SetActive(false);
-            graet = false;
-        }
-            
+        if (Instance == null)
+            Instance = this;
     }
-    //public static GameController Instance;
-    //public event Action OnDoorOpen;
-
-    //private void Awake()
-    //{
-    //    if (Instance == null)
-    //        Instance = this;
-    //}
-    //public void PickObject()
-    //{
-    //    OnDoorOpen?.Invoke();
-    //}
+    public void PickObject(string tag)
+    {
+        OnDoorOpen?.Invoke(tag);
+    }
 
 }

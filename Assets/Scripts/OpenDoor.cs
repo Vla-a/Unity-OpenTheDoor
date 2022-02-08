@@ -8,9 +8,10 @@ using TMPro;
 public class OpenDoor : MonoBehaviour
 {    
     [SerializeField] private SoundScriptableOb soundScriptableOb;
-    [SerializeField] private GameObject panel;
-    [SerializeField] private TMP_InputField input; 
-    private const string  PASWWORD = "123";
+    [SerializeField] private GameObject imageKey;
+    //[SerializeField] private GameObject panel;
+    //[SerializeField] private TMP_InputField input; 
+    //private const string  PASWWORD = "123";
     private Animator _animator;
     private AudioSource audioSource;
     private void Start()
@@ -20,11 +21,12 @@ public class OpenDoor : MonoBehaviour
     }
     private void OnTriggerStay(Collider other)
     {       
-        panel.SetActive(true);
+        //panel.SetActive(true);
         if (Input.GetKeyDown(KeyCode.E))
         {
             audioSource.PlayOneShot(soundScriptableOb.GetAudio(AudioType.knob));
-            if (input.text == PASWWORD)
+            //if (input.text == PASWWORD)
+            if (imageKey.activeSelf == true)
             {
                 audioSource.PlayOneShot(soundScriptableOb.GetAudio(AudioType.door));
                 _animator.SetBool("isOpen", true);
@@ -34,8 +36,8 @@ public class OpenDoor : MonoBehaviour
     }
     private void OnTriggerExit(Collider other)
     {
-        input.text = "";
-        panel.SetActive(false);
+        //input.text = "";
+        //panel.SetActive(false);
         _animator.SetBool("isOpen", false);
     }
 }

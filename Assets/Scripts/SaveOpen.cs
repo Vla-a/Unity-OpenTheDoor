@@ -1,14 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using TMPro;
 
 public class SaveOpen : MonoBehaviour
-{	
-	[SerializeField] private SoundScriptableOb soundScriptableOb;
-	[SerializeField] private GameObject panel;
+{
+	[SerializeField] private GameObject playerCamera;
+	[SerializeField] private GameObject camera;
+	[SerializeField] private SoundScriptableOb soundScriptableOb;	
 	[SerializeField] private GameObject text;
-	[SerializeField] private TMP_InputField input;
+	[SerializeField] private InputField input;	
 	private const string PASWWORD = "123";
 	private Animator _animator;
 	private AudioSource audioSource;
@@ -18,32 +20,42 @@ public class SaveOpen : MonoBehaviour
 		audioSource = GetComponent<AudioSource>();
 		_animator = GetComponent<Animator>();
 	}
-	private void OnTriggerStay(Collider other)
-	{
-		panel.SetActive(true);
-        if (Input.GetKeyDown(KeyCode.E))
-        {
-			audioSource.PlayOneShot(soundScriptableOb.GetAudio(AudioType.knob));
-			if (input.text == PASWWORD)
+    private void OnTriggerEnter(Collider other)
+    {
+		playerCamera.SetActive(false);
+		camera.SetActive(true);
+		Cursor.lockState = CursorLockMode.None;		
+	}
+
+    private void OnTriggerStay(Collider other)
+	{		
+        if (Input.GetKeyDown(KeyCode.E))         
             {
+				audioSource.PlayOneShot(soundScriptableOb.GetAudio(AudioType.knob));
+				if (input.text == PASWWORD)
+				{
+				playerCamera.SetActive(true);
+				camera.SetActive(false);
 				audioSource.PlayOneShot(soundScriptableOb.GetAudio(AudioType.door));
 				_animator.SetBool("isSave", true);
-				panel.SetActive(false);
-			}				
-			else StartCoroutine(incorrect());
-		}
+				Cursor.lockState = CursorLockMode.Locked;
+			    }
+				else StartCoroutine(incorrect());				
+			}
 	}
 	private void OnTriggerExit(Collider other)
 	{
-		input.text = "";
-		panel.SetActive(false);
-		_animator.SetBool("isSave", false);
+		input.text = string.Empty;		
+	    _animator.SetBool("isSave", false);
+		playerCamera.SetActive(true);
+		camera.SetActive(false);
+		Cursor.lockState = CursorLockMode.Locked;
 	}
 
 	private IEnumerator incorrect()
 	{
 		text.SetActive(true);
 		yield return new WaitForSeconds(2f);
-		text.SetActive(false);
+		text.SetActive(false);		
 	}
 }
