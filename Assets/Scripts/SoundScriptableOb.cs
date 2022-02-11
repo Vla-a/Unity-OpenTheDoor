@@ -15,7 +15,7 @@ public AudioClip GetAudio(AudioType audioType)
         return audioFileds.First(audio => audio.audioType == audioType).audioClip;
     }
 }
-public enum AudioType { door, knob}
+public enum AudioType {door, knob, move, close, klock, menu, cat}
 
 
 [Serializable]

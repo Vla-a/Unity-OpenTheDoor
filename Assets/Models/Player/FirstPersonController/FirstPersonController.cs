@@ -17,7 +17,9 @@ using UnityEngine.UI;
 public class FirstPersonController : MonoBehaviour
 {
     private Rigidbody rb;
+    [SerializeField] private SoundScriptableOb audioStore;
     [SerializeField] private Animator animator;
+    private AudioSource audioSource;
     #region Camera Movement Variables
 
     public Camera playerCamera;
@@ -151,7 +153,9 @@ public class FirstPersonController : MonoBehaviour
 
     void Start()
     {
-       
+        audioSource = GetComponent<AudioSource>();
+        audioSource.clip = audioStore.GetAudio(AudioType.move);
+
         if (lockCursor)
         {
             Cursor.lockState = CursorLockMode.Locked;
@@ -378,6 +382,8 @@ public class FirstPersonController : MonoBehaviour
             // Will allow head bob
             if (targetVelocity.x != 0 || targetVelocity.z != 0 && isGrounded)
             {
+                if(!audioSource.isPlaying)
+                audioSource.Play();
                 isWalking = true;
                 animator.SetBool("isStaf", true);
             }
@@ -385,6 +391,7 @@ public class FirstPersonController : MonoBehaviour
             {
                 isWalking = false;
                 animator.SetBool("isStaf", false);
+                audioSource.Stop();
             }
 
             // All movement calculations shile sprint is active
@@ -450,7 +457,7 @@ public class FirstPersonController : MonoBehaviour
         Vector3 origin = new Vector3(transform.position.x, transform.position.y - (transform.localScale.y * .5f), transform.position.z);
         Vector3 direction = transform.TransformDirection(Vector3.down);
         float distance = .75f;
-
+       
         if (Physics.Raycast(origin, direction, out RaycastHit hit, distance))
         {
             Debug.DrawRay(origin, direction * distance, Color.red);

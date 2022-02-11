@@ -4,9 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Code
   - NumberOne
   - NamberTwo
+  - Code
   layers:
   - Default
   - TransparentFX
@@ -16,8 +16,8 @@ TagManager:
   - UI
   - Player
   - 
-  - InteractRaycast
-  - Item
+  - 
+  - Character
   - 
   - 
   - 

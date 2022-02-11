@@ -43,7 +43,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4000013459059310}
   - component: {fileID: 65000013423189194}
-  - component: {fileID: 114000014081552152}
   m_Layer: 0
   m_Name: grp_doorsL
   m_TagString: Untagged
@@ -80,19 +79,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.62, y: 0.52, z: 0.01}
   m_Center: {x: 0.29, y: 0, z: -0.01}
---- !u!114 &114000014081552152
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1000010247695670}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e617ac95c55644f938929ee87c74b211, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  objectNumber: 1
 --- !u!1 &1000010396403750
 GameObject:
   m_ObjectHideFlags: 0
@@ -200,9 +186,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000011810544638}
-  - component: {fileID: 95000014167001920}
-  - component: {fileID: 114000011518356856}
-  - component: {fileID: 65000010569510288}
   m_Layer: 0
   m_Name: PFB_TVStand
   m_TagString: Untagged
@@ -228,52 +211,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
---- !u!95 &95000014167001920
-Animator:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1000010719739470}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 6e134baca9b154265b12e6d080c74bb7, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &114000011518356856
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1000010719739470}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3174ace299f2b4c80baf44a6283329cf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  reachRange: 1.8
---- !u!65 &65000010569510288
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1000010719739470}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1.96, y: 0.55, z: 0.81}
-  m_Center: {x: 0, y: 0.33, z: 0.54}
 --- !u!1 &1000010748514882
 GameObject:
   m_ObjectHideFlags: 0
@@ -631,7 +568,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4000011884112884}
   - component: {fileID: 65000013513775204}
-  - component: {fileID: 114000014183735298}
   m_Layer: 0
   m_Name: grp_doorsR
   m_TagString: Untagged
@@ -668,16 +604,3 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.62, y: 0.52, z: 0.01}
   m_Center: {x: -0.31, y: 0, z: -0.01}
---- !u!114 &114000014183735298
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1000013867835830}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e617ac95c55644f938929ee87c74b211, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  objectNumber: 2

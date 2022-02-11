@@ -22,7 +22,7 @@ public class Character : MonoBehaviour
     {
         if (Physics.Raycast(ray, out hit, 2f, layerMask))
         {          
-            if (Input.GetKeyDown(KeyCode.E))
+            if (Input.GetMouseButtonDown(0))
             {
                 Debug.Log(hit.collider.gameObject.tag);
                 GameController.Instance.PickObject(hit.collider.gameObject.tag);

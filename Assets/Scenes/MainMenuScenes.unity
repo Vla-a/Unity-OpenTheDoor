@@ -734,7 +734,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 963194229}
         m_TargetAssemblyTypeName: ChangeScen, Assembly-CSharp
-        m_MethodName: GoToGame
+        m_MethodName: ChangeScene
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -880,7 +880,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Scene: Game
-  m_MyGameObject: {fileID: 1600665517}
 --- !u!1 &1005396431
 GameObject:
   m_ObjectHideFlags: 0
@@ -1048,7 +1047,7 @@ MonoBehaviour:
   m_MinValue: 0
   m_MaxValue: 1
   m_WholeNumbers: 0
-  m_Value: 1
+  m_Value: 0.05
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
@@ -1664,9 +1663,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 4b6523f8631620e47a044b521a543547, type: 3}
+  m_audioClip: {fileID: 8300000, guid: c20257a2504666049a97c6b9a24ac88a, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.06
   m_Pitch: 1
   Loop: 1
   Mute: 0

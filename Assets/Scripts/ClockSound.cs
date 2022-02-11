@@ -4,10 +4,12 @@ using UnityEngine;
 
 public class ClockSound : MonoBehaviour
 {
+    [SerializeField] private SoundScriptableOb soundScriptableOb;
     private AudioSource audioSource;
+   
     private void Awake()
     {
         audioSource = GetComponent<AudioSource>();
-        audioSource.Play(); 
+        audioSource.PlayOneShot(soundScriptableOb.GetAudio(AudioType.klock));
     }  
 }
