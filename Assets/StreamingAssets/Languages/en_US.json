@@ -1,0 +1,56 @@
+{
+  "items": [
+    {
+      "key": "Return",
+      "value": "Return"
+    },
+    {
+      "key": "Russian",
+      "value": "Russian"
+    },
+    {
+      "key": "English",
+      "value": "English"
+    },
+    {
+      "key": "Play",
+      "value": "Play"
+    },
+    {
+      "key": "Setting",
+      "value": "Setting"
+    },
+    {
+      "key": "Exit",
+      "value": "Exit"
+    },
+    {
+      "key": "Password",
+      "value": "Password"
+    },
+    {
+      "key": "Incorrect",
+      "value": "The answer is incorrect!"
+    },
+    {
+      "key": "Enter",
+      "value": "Enter text..."
+    },
+    {
+      "key": "Save",
+      "value": "Save"
+    },
+    {
+      "key": "Riddle",
+      "value": "Open a text document, write down and save the answer to the question: What number is hidden under the car?"
+    },
+    {
+      "key": "EnterPassword",
+      "value": "Enter password..."
+    },
+    {
+      "key": "InvalidPassword",
+      "value": "Invalid password"
+    }
+  ]
+}

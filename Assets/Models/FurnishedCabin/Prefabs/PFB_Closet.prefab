@@ -336,7 +336,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4000013553281146}
   - component: {fileID: 95000011105672242}
-  - component: {fileID: 65000012470642568}
   m_Layer: 8
   m_Name: PFB_Closet
   m_TagString: Untagged
@@ -382,19 +381,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!65 &65000012470642568
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1000012593365136}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1.18, y: 1.91, z: 1.93}
-  m_Center: {x: 0, y: 1.05, z: 0.63}
 --- !u!1 &1000013877102048
 GameObject:
   m_ObjectHideFlags: 0

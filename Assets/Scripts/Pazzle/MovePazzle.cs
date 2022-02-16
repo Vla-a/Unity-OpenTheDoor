@@ -5,34 +5,47 @@ using UnityEngine.EventSystems;
 
 public class MovePazzle: MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
-    public static GameObject itemBeingDragged;
-    [SerializeField] private GameObject draggedItem;
+    [SerializeField] private Canvas parentCanvas;
+    [SerializeField] private GameObject finishItem;
+    [SerializeField] private float errorRadius;
     private Vector3 startPosition;
-    private Transform startParent;
+    private RectTransform canvasRect;
+    private RectTransform rect;
+    private Camera UICamera;
+    private Vector2 canvasBounds;
+
+    private void Awake()
+    {
+        canvasRect = parentCanvas.GetComponent<RectTransform>();
+        rect = GetComponent<RectTransform>();
+        UICamera = parentCanvas.worldCamera;
+        canvasBounds = new Vector2(canvasRect.sizeDelta.x / 2 - rect.sizeDelta.x  / 2, canvasRect.sizeDelta.y / 2 - rect.sizeDelta.y  / 2);
+    }
 
     public void OnBeginDrag(PointerEventData eventData)
     {
-        itemBeingDragged = gameObject;
         startPosition = transform.position;
-        startParent = transform.parent;      
     }
 
     public void OnDrag(PointerEventData eventData)
     {
-        transform.position = Input.mousePosition;
-
+        RectTransformUtility.ScreenPointToLocalPointInRectangle(canvasRect, eventData.position, UICamera, out Vector2 localPos);
+        localPos.x = Mathf.Clamp(localPos.x, -canvasBounds.x, canvasBounds.x);
+        localPos.y = Mathf.Clamp(localPos.y, -canvasBounds.y, canvasBounds.y);
+        rect.anchoredPosition = localPos;
     }
 
     public void OnEndDrag(PointerEventData eventData)
     {
-        if (Mathf.Abs(transform.position.x - draggedItem.transform.position.x) <= 50f &&
-    Mathf.Abs(transform.position.y - draggedItem.transform.position.y) <= 50f)
+
+        if (Vector3.Distance(gameObject.transform.position, finishItem.transform.position) <= errorRadius)
         {
-            transform.position = draggedItem.transform.position;
+            gameObject.transform.position = finishItem.transform.position;
             GetCode.AddElement();
         }
         else
-            transform.position = startPosition;
-
+        {
+            gameObject.transform.position = startPosition;
+        }
     }
 }

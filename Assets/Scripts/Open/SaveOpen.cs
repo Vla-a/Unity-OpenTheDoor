@@ -51,10 +51,10 @@ public class SaveOpen : MonoBehaviour
 		camera.SetActive(false);
 		Cursor.lockState = CursorLockMode.Locked;
 	}
-
 	private IEnumerator incorrect()
 	{
 		text.SetActive(true);
+		audioSource.PlayOneShot(soundScriptableOb.GetAudio(AudioType.no));
 		yield return new WaitForSeconds(2f);
 		text.SetActive(false);		
 	}

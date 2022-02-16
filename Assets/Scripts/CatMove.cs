@@ -8,20 +8,25 @@ public class CatMove : MonoBehaviour
      
     [SerializeField] private GameObject play;
     [SerializeField] private SoundScriptableOb soundScriptableOb;
+    [SerializeField] private float distanse;
     private AudioSource audioSource;
     private NavMeshAgent agent;
 
     private void Start()
     {
+        agent = GetComponent<NavMeshAgent>();
         audioSource = GetComponent<AudioSource>();
         audioSource.clip = soundScriptableOb.GetAudio(AudioType.cat);
     }
     void Update()
-    {
-        
-        agent = GetComponent<NavMeshAgent>();
+    {     
         agent.destination = play.transform.position;
-        StartCoroutine(catSound());        
+
+        if(Vector3.Distance(play.transform.position, agent.transform.position) <= distanse)
+        {
+            StartCoroutine(catSound());
+        }
+               
     }
 
     private IEnumerator catSound()

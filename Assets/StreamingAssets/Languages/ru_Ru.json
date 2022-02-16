@@ -1,0 +1,56 @@
+﻿{
+  "items": [
+    {
+      "key": "Return",
+      "value": "Назад"
+    },
+    {
+      "key": "Russian",
+      "value": "Русский"
+    },
+    {
+      "key": "English",
+      "value": "Английский"
+    },
+    {
+      "key": "Play",
+      "value": "Игра"
+    },
+    {
+      "key": "Setting",
+      "value": "Настройка"
+    },
+    {
+      "key": "Exit",
+      "value": "Выход"
+    },
+    {
+      "key": "Password",
+      "value": "Пароль"
+    },
+    {
+      "key": "Incorrect",
+      "value": "Ответ не верный!"
+    },
+    {
+      "key": "Enter",
+      "value": "Введите текст..."
+    },
+    {
+      "key": "Save",
+      "value": "Сохранить"
+    },
+    {
+      "key": "Riddle",
+      "value": "Открой текстовый документ, запиши и сохрани ответ на вопрос: Какое число скрыто под машиной?"
+    },
+    {
+      "key": "EnterPassword",
+      "value": "Введите пароль..."
+    },
+    {
+      "key": "InvalidPassword",
+      "value": "Неверный пароль"
+    }
+  ]
+}
