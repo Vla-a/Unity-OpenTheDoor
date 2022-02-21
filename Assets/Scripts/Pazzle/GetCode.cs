@@ -10,7 +10,7 @@ public class GetCode : MonoBehaviour
     [SerializeField] private GameObject passwordnamber;
     private int fullElement;
     public static int myElement;
-    private int count = 0;
+    
     void Start()
     {
         fullElement = image.transform.childCount;
@@ -26,7 +26,8 @@ public class GetCode : MonoBehaviour
 
     public static void AddElement()
     {        
-        myElement++;
-        Debug.Log(myElement);
+        myElement++;  
+       
+            
     }
 }

@@ -7,8 +7,7 @@ using System.Linq;
 
 public class ObjectDisappearance : MonoBehaviour
 {
-    [SerializeField] private List<ImageActive> _imageAktive = new List<ImageActive>();
-    //[SerializeField] private Text text;
+    [SerializeField] private List<ImageActive> _imageAktive = new List<ImageActive>();   
     [SerializeField] private GameObject player;   
     private Animator _animator;
 
@@ -26,26 +25,23 @@ public class ObjectDisappearance : MonoBehaviour
     private void AddPos(string tag)
     {
         switch (tag)
-        {
-            case "Code":
-                {
-                    var script = _imageAktive.First(obj => obj.CompareTag(tag));
-                    script.ImageActiv();                   
-                    break;
-                }
-                
+        {                
              case "NumberOne":
                 {
-                    var script = _imageAktive.First(obj => obj.CompareTag(tag));
-                    script.ImageActiv();
+                    Search(tag);
                     break;
                 }
             case "NamberTwo":
                 {
-                    var script = _imageAktive.First(obj => obj.CompareTag(tag));
-                    script.ImageActiv();
+                    Search(tag);
                     break;
                 }
         }        
+    }
+
+    private void Search(string tag)
+    {        
+        var script = _imageAktive.First(obj => obj.CompareTag(tag));
+        script.ImageActiv();
     }
 }

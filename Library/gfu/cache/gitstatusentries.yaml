@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-02-16T08:36:09.378+03:00
-  initializedAtString: 2022-02-16T08:20:11.811+03:00
+  lastUpdatedAtString: 2022-02-21T08:27:38.012+03:00
+  initializedAtString: 2022-02-21T08:09:01.352+03:00
   entries:
   - path: .vs\OpenTheDoor\v17\.suo
     fullPath: D:\Uladzimir\OpenTheDoor\.vs\OpenTheDoor\v17\.suo
@@ -28,114 +28,156 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Materials\Collision\car.jpg
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\car.jpg
-    projectPath: Assets\Materials\Collision\car.jpg
+  - path: Assets\Animator\SaveAnim\handle.controller
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\SaveAnim\handle.controller
+    projectPath: Assets\Animator\SaveAnim\handle.controller
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Collision\car.jpg.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\car.jpg.meta
-    projectPath: Assets\Materials\Collision\car.jpg.meta
+  - path: Assets\Animator\SaveAnim\handle.controller.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\SaveAnim\handle.controller.meta
+    projectPath: Assets\Animator\SaveAnim\handle.controller.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Collision\close.png
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\close.png
-    projectPath: Assets\Materials\Collision\close.png
+  - path: Assets\Animator\SaveAnim\HandleSaveNo.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\SaveAnim\HandleSaveNo.anim
+    projectPath: Assets\Animator\SaveAnim\HandleSaveNo.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Collision\close.png.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\close.png.meta
-    projectPath: Assets\Materials\Collision\close.png.meta
+  - path: Assets\Animator\SaveAnim\HandleSaveNo.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\SaveAnim\HandleSaveNo.anim.meta
+    projectPath: Assets\Animator\SaveAnim\HandleSaveNo.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Collision\txt.jpg
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\txt.jpg
-    projectPath: Assets\Materials\Collision\txt.jpg
+  - path: Assets\Animator\SaveAnim\HandleSaveOpen.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\SaveAnim\HandleSaveOpen.anim
+    projectPath: Assets\Animator\SaveAnim\HandleSaveOpen.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Collision\txt.jpg.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\txt.jpg.meta
-    projectPath: Assets\Materials\Collision\txt.jpg.meta
+  - path: Assets\Animator\SaveAnim\HandleSaveOpen.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\SaveAnim\HandleSaveOpen.anim.meta
+    projectPath: Assets\Animator\SaveAnim\HandleSaveOpen.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Collision\Win.jpg
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\Win.jpg
-    projectPath: Assets\Materials\Collision\Win.jpg
+  - path: Assets\Materials\Collision\ball.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\ball.png
+    projectPath: Assets\Materials\Collision\ball.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Collision\Win.jpg.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\Win.jpg.meta
-    projectPath: Assets\Materials\Collision\Win.jpg.meta
+  - path: Assets\Materials\Collision\ball.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\ball.png.meta
+    projectPath: Assets\Materials\Collision\ball.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Models\FurnishedCabin\Prefabs\PFB_Closet.prefab
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Prefabs\PFB_Closet.prefab
-    projectPath: Assets\Models\FurnishedCabin\Prefabs\PFB_Closet.prefab
+  - path: Assets\Materials\Collision\gras.jpg
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\gras.jpg
+    projectPath: Assets\Materials\Collision\gras.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Collision\gras.jpg.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\gras.jpg.meta
+    projectPath: Assets\Materials\Collision\gras.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Collision\Materials.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\Materials.meta
+    projectPath: Assets\Materials\Collision\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Collision\Materials\gras.mat
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\Materials\gras.mat
+    projectPath: Assets\Materials\Collision\Materials\gras.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Collision\Materials\gras.mat.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\Materials\gras.mat.meta
+    projectPath: Assets\Materials\Collision\Materials\gras.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Breakable Windows\Prefabs\Window.prefab
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\Breakable Windows\Prefabs\Window.prefab
+    projectPath: Assets\Models\Breakable Windows\Prefabs\Window.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\NavMeshes.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\NavMeshes.meta
-    projectPath: Assets\NavMeshes.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\NavMeshes\Game.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\NavMeshes\Game.meta
-    projectPath: Assets\NavMeshes\Game.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\NavMeshes\Game\NavMesh.asset
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\NavMeshes\Game\NavMesh.asset
-    projectPath: Assets\NavMeshes\Game\NavMesh.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\NavMeshes\Game\NavMesh.asset.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\NavMeshes\Game\NavMesh.asset.meta
-    projectPath: Assets\NavMeshes\Game\NavMesh.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Game.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scenes\Game.meta
-    projectPath: Assets\Scenes\Game.meta
+  - path: Assets\Models\Breakable Windows\Scripts\BreakableWindow.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\Breakable Windows\Scripts\BreakableWindow.cs
+    projectPath: Assets\Models\Breakable Windows\Scripts\BreakableWindow.cs
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
+  - path: Assets\Prefab\Ball.prefab
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Ball.prefab
+    projectPath: Assets\Prefab\Ball.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\Ball.prefab.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Ball.prefab.meta
+    projectPath: Assets\Prefab\Ball.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\PrefabItem.prefab
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\PrefabItem.prefab
+    projectPath: Assets\Prefab\PrefabItem.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\PrefabItem.prefab.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\PrefabItem.prefab.meta
+    projectPath: Assets\Prefab\PrefabItem.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\rust_key.prefab
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\rust_key.prefab
+    projectPath: Assets\Prefab\rust_key.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\rust_key.prefab.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\rust_key.prefab.meta
+    projectPath: Assets\Prefab\rust_key.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Scenes\Game.unity
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scenes\Game.unity
     projectPath: Assets\Scenes\Game.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scenes\Game\NavMesh.asset
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scenes\Game\NavMesh.asset
-    projectPath: Assets\Scenes\Game\NavMesh.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scenes\Game\NavMesh.asset.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scenes\Game\NavMesh.asset.meta
-    projectPath: Assets\Scenes\Game\NavMesh.asset.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Assets\Scenes\MainMenuScenes.unity
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scenes\MainMenuScenes.unity
     projectPath: Assets\Scenes\MainMenuScenes.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\ScriptableObject\New Inventory Image.asset
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\ScriptableObject\New Inventory Image.asset
+    projectPath: Assets\ScriptableObject\New Inventory Image.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ScriptableObject\New Inventory Image.asset.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\ScriptableObject\New Inventory Image.asset.meta
+    projectPath: Assets\ScriptableObject\New Inventory Image.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\ScriptableObject\New Sound Scriptable Ob.asset
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\ScriptableObject\New Sound Scriptable
       Ob.asset
@@ -143,21 +185,39 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\BackMainScen.cs
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\BackMainScen.cs
-    projectPath: Assets\Scripts\BackMainScen.cs
+  - path: Assets\Scripts\Bullet.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Bullet.cs
+    projectPath: Assets\Scripts\Bullet.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Scripts\BackMainScen.cs.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\BackMainScen.cs.meta
-    projectPath: Assets\Scripts\BackMainScen.cs.meta
+  - path: Assets\Scripts\Bullet.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Bullet.cs.meta
+    projectPath: Assets\Scripts\Bullet.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Scripts\CatMove.cs
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\CatMove.cs
-    projectPath: Assets\Scripts\CatMove.cs
+  - path: Assets\Scripts\BulletCreate.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\BulletCreate.cs
+    projectPath: Assets\Scripts\BulletCreate.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\BulletCreate.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\BulletCreate.cs.meta
+    projectPath: Assets\Scripts\BulletCreate.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ChangeScen.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\ChangeScen.cs
+    projectPath: Assets\Scripts\ChangeScen.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Character.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Character.cs
+    projectPath: Assets\Scripts\Character.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -167,9 +227,87 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\Language.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Language.meta
-    projectPath: Assets\Scripts\Language.meta
+  - path: Assets\Scripts\GameController.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\GameController.cs
+    projectPath: Assets\Scripts\GameController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\ImageActive.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\ImageActive.cs
+    projectPath: Assets\Scripts\ImageActive.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\ImageActive.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\ImageActive.cs.meta
+    projectPath: Assets\Scripts\ImageActive.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Inventory.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory.meta
+    projectPath: Assets\Scripts\Inventory.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Inventory\AddInventaru.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\AddInventaru.cs
+    projectPath: Assets\Scripts\Inventory\AddInventaru.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Inventory\AddInventaru.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\AddInventaru.cs.meta
+    projectPath: Assets\Scripts\Inventory\AddInventaru.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Inventory\ImageActive.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\ImageActive.cs
+    projectPath: Assets\Scripts\Inventory\ImageActive.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Inventory\ImageActive.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\ImageActive.cs.meta
+    projectPath: Assets\Scripts\Inventory\ImageActive.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Inventory\Inventaries.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\Inventaries.cs
+    projectPath: Assets\Scripts\Inventory\Inventaries.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Inventory\Inventaries.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\Inventaries.cs.meta
+    projectPath: Assets\Scripts\Inventory\Inventaries.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Inventory\InventaryItem.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\InventaryItem.cs
+    projectPath: Assets\Scripts\Inventory\InventaryItem.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Inventory\InventaryItem.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\InventaryItem.cs.meta
+    projectPath: Assets\Scripts\Inventory\InventaryItem.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Inventory\InventoryImage.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\InventoryImage.cs
+    projectPath: Assets\Scripts\Inventory\InventoryImage.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Inventory\InventoryImage.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\InventoryImage.cs.meta
+    projectPath: Assets\Scripts\Inventory\InventoryImage.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -177,50 +315,50 @@ MonoBehaviour:
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Language\BtnSwitchLang.cs
     projectPath: Assets\Scripts\Language\BtnSwitchLang.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Language\BtnSwitchLang.cs.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Language\BtnSwitchLang.cs.meta
-    projectPath: Assets\Scripts\Language\BtnSwitchLang.cs.meta
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\MoveMenu.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\MoveMenu.cs
+    projectPath: Assets\Scripts\MoveMenu.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Scripts\Language\LocalizationData.cs
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Language\LocalizationData.cs
-    projectPath: Assets\Scripts\Language\LocalizationData.cs
+  - path: Assets\Scripts\MoveMenu.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\MoveMenu.cs.meta
+    projectPath: Assets\Scripts\MoveMenu.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Scripts\Language\LocalizationData.cs.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Language\LocalizationData.cs.meta
-    projectPath: Assets\Scripts\Language\LocalizationData.cs.meta
+  - path: Assets\Scripts\ObjectDisappearance.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\ObjectDisappearance.cs
+    projectPath: Assets\Scripts\ObjectDisappearance.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Open\FrameOpen.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Open\FrameOpen.cs
+    projectPath: Assets\Scripts\Open\FrameOpen.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Open\Interaction.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Open\Interaction.cs
+    projectPath: Assets\Scripts\Open\Interaction.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Scripts\Language\LocalizationManager.cs
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Language\LocalizationManager.cs
-    projectPath: Assets\Scripts\Language\LocalizationManager.cs
+  - path: Assets\Scripts\Open\Interaction.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Open\Interaction.cs.meta
+    projectPath: Assets\Scripts\Open\Interaction.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Scripts\Language\LocalizationManager.cs.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Language\LocalizationManager.cs.meta
-    projectPath: Assets\Scripts\Language\LocalizationManager.cs.meta
+  - path: Assets\Scripts\Open\LaptopOpen.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Open\LaptopOpen.cs
+    projectPath: Assets\Scripts\Open\LaptopOpen.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Language\LocalizedText.cs
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Language\LocalizedText.cs
-    projectPath: Assets\Scripts\Language\LocalizedText.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Language\LocalizedText.cs.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Language\LocalizedText.cs.meta
-    projectPath: Assets\Scripts\Language\LocalizedText.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scripts\Open\OpenDoor.cs
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Open\OpenDoor.cs
     projectPath: Assets\Scripts\Open\OpenDoor.cs
@@ -245,105 +383,81 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\Pazzle\MovePazzle.cs
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Pazzle\MovePazzle.cs
-    projectPath: Assets\Scripts\Pazzle\MovePazzle.cs
+  - path: Assets\Scripts\Pickable.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Pickable.cs
+    projectPath: Assets\Scripts\Pickable.cs
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Pickable.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Pickable.cs.meta
+    projectPath: Assets\Scripts\Pickable.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Save.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Save.meta
+    projectPath: Assets\Scripts\Save.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Save\NoSaveOrSave.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Save\NoSaveOrSave.cs
+    projectPath: Assets\Scripts\Save\NoSaveOrSave.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Save\NoSaveOrSave.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Save\NoSaveOrSave.cs.meta
+    projectPath: Assets\Scripts\Save\NoSaveOrSave.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Save\SaveGame.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Save\SaveGame.cs
+    projectPath: Assets\Scripts\Save\SaveGame.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Save\SaveGame.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Save\SaveGame.cs.meta
+    projectPath: Assets\Scripts\Save\SaveGame.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Scripts\SoundScriptableOb.cs
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\SoundScriptableOb.cs
     projectPath: Assets\Scripts\SoundScriptableOb.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Sounds\no.mp3
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Sounds\no.mp3
-    projectPath: Assets\Sounds\no.mp3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Sounds\no.mp3.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Sounds\no.mp3.meta
-    projectPath: Assets\Sounds\no.mp3.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Sounds\win.mp3
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Sounds\win.mp3
-    projectPath: Assets\Sounds\win.mp3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Sounds\win.mp3.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Sounds\win.mp3.meta
-    projectPath: Assets\Sounds\win.mp3.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StreamingAssets.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\StreamingAssets.meta
-    projectPath: Assets\StreamingAssets.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StreamingAssets\Languages.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\StreamingAssets\Languages.meta
-    projectPath: Assets\StreamingAssets\Languages.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assets\StreamingAssets\Languages\en_US.json
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\StreamingAssets\Languages\en_US.json
     projectPath: Assets\StreamingAssets\Languages\en_US.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StreamingAssets\Languages\en_US.json.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\StreamingAssets\Languages\en_US.json.meta
-    projectPath: Assets\StreamingAssets\Languages\en_US.json.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\StreamingAssets\Languages\ru_Ru.json
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\StreamingAssets\Languages\ru_Ru.json
     projectPath: Assets\StreamingAssets\Languages\ru_Ru.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StreamingAssets\Languages\ru_Ru.json.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\StreamingAssets\Languages\ru_Ru.json.meta
-    projectPath: Assets\StreamingAssets\Languages\ru_Ru.json.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StreamingAssets\Languages\ru_Ru.json.bak
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\StreamingAssets\Languages\ru_Ru.json.bak
-    projectPath: Assets\StreamingAssets\Languages\ru_Ru.json.bak
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StreamingAssets\Languages\ru_Ru.json.bak.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\StreamingAssets\Languages\ru_Ru.json.bak.meta
-    projectPath: Assets\StreamingAssets\Languages\ru_Ru.json.bak.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ArtifactDB
     fullPath: D:\Uladzimir\OpenTheDoor\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\07\0791ae678143c7cdb8f2fbb44a372e68
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\Artifacts\07\0791ae678143c7cdb8f2fbb44a372e68
-    projectPath: Library\Artifacts\07\0791ae678143c7cdb8f2fbb44a372e68
+  - path: Library\Artifacts\22\22bd6ecd77771bfa7f50050d95ef5f30
+    fullPath: D:\Uladzimir\OpenTheDoor\Library\Artifacts\22\22bd6ecd77771bfa7f50050d95ef5f30
+    projectPath: Library\Artifacts\22\22bd6ecd77771bfa7f50050d95ef5f30
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\23\2333976d04b305d2b6d0e0a708ba2c91
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\Artifacts\23\2333976d04b305d2b6d0e0a708ba2c91
-    projectPath: Library\Artifacts\23\2333976d04b305d2b6d0e0a708ba2c91
+  - path: Library\Artifacts\5d\5d9ec1a2b2cbe56d33ebfb2b52ddde31
+    fullPath: D:\Uladzimir\OpenTheDoor\Library\Artifacts\5d\5d9ec1a2b2cbe56d33ebfb2b52ddde31
+    projectPath: Library\Artifacts\5d\5d9ec1a2b2cbe56d33ebfb2b52ddde31
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -386,12 +500,6 @@ MonoBehaviour:
   - path: Library\Bee\1900b0aP.dag_derived
     fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\1900b0aP.dag_derived
     projectPath: Library\Bee\1900b0aP.dag_derived
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\1900b0aP.dag_fsmtime
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\1900b0aP.dag_fsmtime
-    projectPath: Library\Bee\1900b0aP.dag_fsmtime
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -488,36 +596,6 @@ MonoBehaviour:
   - path: Library\Bee\fullprofile.json
     fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\fullprofile.json
     projectPath: Library\Bee\fullprofile.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\Player3ac94cf9.dag
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\Player3ac94cf9.dag
-    projectPath: Library\Bee\Player3ac94cf9.dag
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\Player3ac94cf9.dag.json
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\Player3ac94cf9.dag.json
-    projectPath: Library\Bee\Player3ac94cf9.dag.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\Player3ac94cf9.dag.outputdata
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\Player3ac94cf9.dag.outputdata
-    projectPath: Library\Bee\Player3ac94cf9.dag.outputdata
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\Player3ac94cf9.dag_derived
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\Player3ac94cf9.dag_derived
-    projectPath: Library\Bee\Player3ac94cf9.dag_derived
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\Player3ac94cf9.dag_fsmtime
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\Player3ac94cf9.dag_fsmtime
-    projectPath: Library\Bee\Player3ac94cf9.dag_fsmtime
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -707,6 +785,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\StateCache\MainStageHierarchy\b2\b2f9d1162d347711a0bdc1f0461f00c9.json
+    fullPath: D:\Uladzimir\OpenTheDoor\Library\StateCache\MainStageHierarchy\b2\b2f9d1162d347711a0bdc1f0461f00c9.json
+    projectPath: Library\StateCache\MainStageHierarchy\b2\b2f9d1162d347711a0bdc1f0461f00c9.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\StateCache\SceneView\13\133f5719feae8d9b768206748d53f262.json
     fullPath: D:\Uladzimir\OpenTheDoor\Library\StateCache\SceneView\13\133f5719feae8d9b768206748d53f262.json
     projectPath: Library\StateCache\SceneView\13\133f5719feae8d9b768206748d53f262.json
@@ -728,6 +812,12 @@ MonoBehaviour:
   - path: UserSettings\EditorUserSettings.asset
     fullPath: D:\Uladzimir\OpenTheDoor\UserSettings\EditorUserSettings.asset
     projectPath: UserSettings\EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UserSettings\Layouts\CurrentMaximizeLayout.dwlt
+    fullPath: D:\Uladzimir\OpenTheDoor\UserSettings\Layouts\CurrentMaximizeLayout.dwlt
+    projectPath: UserSettings\Layouts\CurrentMaximizeLayout.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

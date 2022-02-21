@@ -51,6 +51,22 @@
     {
       "key": "InvalidPassword",
       "value": "Invalid password"
+    },
+    {
+      "key": "NewGame",
+      "value": "New Game"
+    },
+    {
+      "key": "MoveMenu",
+      "value": "Do you want to go to the main menu?"
+    },
+    {
+      "key": "No",
+      "value": "No"
+    },
+    {
+      "key": "Yes",
+      "value": "Yes"
     }
   ]
 }

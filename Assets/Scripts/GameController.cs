@@ -7,6 +7,7 @@ public class GameController : MonoBehaviour
 {
     public static GameController Instance;
     public event Action<string> OnDoorOpen;
+    public event Action<InventaryType> Inventary;
 
     private void Awake()
     {
@@ -16,6 +17,12 @@ public class GameController : MonoBehaviour
     public void PickObject(string tag)
     {
         OnDoorOpen?.Invoke(tag);
+       
+    }
+
+    public void PikOb(InventaryType inventary)
+    {
+        Inventary?.Invoke(inventary);
     }
 
 }

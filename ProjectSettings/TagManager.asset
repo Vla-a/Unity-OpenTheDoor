@@ -8,6 +8,10 @@ TagManager:
   - NamberTwo
   - Code
   - LocalizationManager
+  - Frame
+  - Ball
+  - FrontDoor
+  - Other
   layers:
   - Default
   - TransparentFX

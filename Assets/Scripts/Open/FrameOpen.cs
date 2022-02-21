@@ -2,76 +2,54 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FrameOpen : MonoBehaviour
+public class FrameOpen : MonoBehaviour, Interaction
 {
-	[SerializeField] private Animator _LaptopOpen;
+	[SerializeField] private SoundScriptableOb soundScriptableOb;
+	[SerializeField] private Animator frameOpenAnimator;
 	public bool _isOpened;
 	[SerializeField] private GameObject player;
 	private AudioSource audioSource;
 	void Start()
 	{
 		audioSource = GetComponent<AudioSource>();
+		audioSource.clip = soundScriptableOb.GetAudio(AudioType.street);
 		_isOpened = false;
 	}
 
-	void OnMouseOver()
+	public void Interract()
 	{
+		if (_isOpened == false)
 		{
-			if (player)
-			{
-				float dist = Vector3.Distance(player.transform.position, transform.position);
-				if (dist < 15)
-				{
-					if (_isOpened == false)
-					{
-
-						if (Input.GetMouseButtonDown(0))
-						{
-							StartCoroutine(opening());
-						}
-					}
-					else
-					{
-						if (_isOpened == true)
-						{
-							if (Input.GetMouseButtonDown(0))
-							{
-								StartCoroutine(closing());
-							}
-						}
-
-					}
-
-				}
-			}
-
+			StartCoroutine(opening());
 		}
-
+		else
+		{
+			StartCoroutine(closing());
+		}
 	}
+	
 	public void ClosingLaptop()
 	{
 		StartCoroutine(closing());
 	}
 	IEnumerator opening()
-	{				
-		_LaptopOpen.Play("HadleAnim");
+	{
+		frameOpenAnimator.Play("HadleAnim");
 		_isOpened = true;
 		yield return new WaitForSeconds(1f);
-		_LaptopOpen.Play("FrameOpen");
+		frameOpenAnimator.Play("FrameOpen");
 		audioSource.Play();
-
 	}
 
 	IEnumerator closing()
 	{
-		_LaptopOpen.Play("FrameClose");
+		frameOpenAnimator.Play("FrameClose");
 		yield return new WaitForSeconds(1f);
 		print("you are closing the laptop");		
-		//_LaptopOpen.Play("NoHadleAnim");
 		_isOpened = false;
-		audioSource.Stop();
-	
+		audioSource.Stop();	
 	}
 
+ 
 }
 

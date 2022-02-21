@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2022-02-16T08:20:08.293+03:00
-  initializedAtString: 2022-02-16T08:20:08.293+03:00
+  lastUpdatedAtString: 2022-02-21T08:08:58.236+03:00
+  initializedAtString: 2022-02-21T08:08:58.236+03:00
   currentGitRemote:
     name: origin
     url: git@github.com:Vla-a/Unity-OpenTheDoor.git

@@ -2,55 +2,28 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class LaptopOpen : MonoBehaviour
+public class LaptopOpen : MonoBehaviour, Interaction
 {
 	[SerializeField] private GameObject playerCamera;
 	[SerializeField] private GameObject camera;
 	[SerializeField] private Animator _LaptopOpen;	
 	public bool _isOpened;
 	[SerializeField] private GameObject player;
-	[SerializeField] private GameObject gameObject;
-
+	[SerializeField] private GameObject panelLaptop;
 
 	void Start()
 	{
 		_isOpened = false;
 	}
 
-	void OnMouseOver()
+	public void Interract()
 	{
-		{
-			if (player)
-			{
-				float dist = Vector3.Distance(player.transform.position, transform.position);
-				if (dist < 15)
-				{
-					if (_isOpened == false)
-					{
-						
-						if (Input.GetMouseButtonDown(0))
-						{							
-							StartCoroutine(opening());
-						}
-					}
-					else
-					{
-						if (_isOpened == true)
-						{
-							if (Input.GetMouseButtonDown(0))
-							{
-								StartCoroutine(closing());
-							}
-						}
-
-					}
-
-				}
-			}
-
-		}
-
+		if (_isOpened == false)
+		{		
+				StartCoroutine(opening());			
+		}		
 	}
+	
 	public void ClosingLaptop()
     {
 		StartCoroutine(closing());
@@ -63,7 +36,7 @@ public class LaptopOpen : MonoBehaviour
 		playerCamera.SetActive(false);
 		camera.SetActive(true);
 		yield return new WaitForSeconds(2f);
-		gameObject.SetActive(true);
+		panelLaptop.SetActive(true);
 		player.GetComponent<FirstPersonController>().enabled = false;
 		Cursor.lockState = CursorLockMode.None;
 	}
@@ -71,7 +44,7 @@ public class LaptopOpen : MonoBehaviour
 	IEnumerator closing()
 	{
 		Cursor.lockState = CursorLockMode.Locked;
-		gameObject.SetActive(false);
+		panelLaptop.SetActive(false);
 		playerCamera.SetActive(true);
 		camera.SetActive(false);
 		yield return new WaitForSeconds(.8f);
@@ -79,5 +52,5 @@ public class LaptopOpen : MonoBehaviour
 		_LaptopOpen.Play("OpenLaptop");
 		_isOpened = false;
 		player.GetComponent<FirstPersonController>().enabled = true;
-	}
+	} 
 }

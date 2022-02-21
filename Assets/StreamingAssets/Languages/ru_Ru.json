@@ -51,6 +51,22 @@
     {
       "key": "InvalidPassword",
       "value": "Неверный пароль"
+    },
+    {
+      "key": "NewGame",
+      "value": "Новая игра"
+    },
+    {
+      "key": "MoveMenu",
+      "value": "Вы хотите выйти в главное меню??"
+    },
+    {
+      "key": "No",
+      "value": "Нет"
+    },
+    {
+      "key": "Yes",
+      "value": "Да"
     }
   ]
 }

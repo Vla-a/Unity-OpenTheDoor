@@ -6,7 +6,9 @@ using UnityEngine;
 [RequireComponent(typeof(AudioSource))]
 public class BreakableWindow : MonoBehaviour {
 
-    
+    [SerializeField] private SoundScriptableOb soundScriptableOb;
+    private AudioSource audioSource;
+
     [Tooltip("Layer should be TransparentFX or your own layer for breakable windows.")]
     public LayerMask layer;
     [Range(2,25)]
@@ -58,6 +60,9 @@ public class BreakableWindow : MonoBehaviour {
 
         if (transform.rotation.eulerAngles.x != 0 || transform.rotation.eulerAngles.z != 0)
             Debug.LogWarning("Warning: Window must not be rotated around x and z!");
+
+        audioSource = GetComponent<AudioSource>();
+       
     }
 
     private void bakeVertices(bool trianglesToo = false)
@@ -201,6 +206,7 @@ public class BreakableWindow : MonoBehaviour {
         {
             if (allreadyCalculated == true)
             {
+               
                 splinterParent.SetActive(true);
                 if (addTorques)
                 {
@@ -228,6 +234,7 @@ public class BreakableWindow : MonoBehaviour {
         {
             GetComponent<AudioSource>().clip = breakingSound;
             GetComponent<AudioSource>().Play();
+            StartCoroutine(soundPlay());
         }
 
         return splinters.ToArray();
@@ -249,5 +256,12 @@ public class BreakableWindow : MonoBehaviour {
             }
             else breakWindow();
         }        
+    }
+
+    private IEnumerator soundPlay()
+    {
+        yield return new WaitForSeconds(1f);    
+            audioSource.clip = soundScriptableOb.GetAudio(AudioType.street);
+            audioSource.Play();        
     }
 }

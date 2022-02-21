@@ -5,37 +5,41 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
-public class OpenDoor : MonoBehaviour
+public class OpenDoor : MonoBehaviour, Interaction
 {    
     [SerializeField] private SoundScriptableOb soundScriptableOb;
-    [SerializeField] private GameObject imageKey;
+    [SerializeField] private Inventaries inventaries;
     [SerializeField] private GameObject imageWin;
-
+    private bool isOpen;
     private Animator _animator;
     private AudioSource audioSource;
+
     private void Start()
     {
+       
         audioSource = GetComponent<AudioSource>();
         _animator = GetComponent<Animator>();
     }
-    private void OnTriggerStay(Collider other)
-    {    
-     
-        if (Input.GetKeyDown(KeyCode.E))
+
+    public void Interract()
+    {
+        if (!isOpen)
         {
-            audioSource.PlayOneShot(soundScriptableOb.GetAudio(AudioType.knob));      
-            if (imageKey.activeSelf == true)
+            audioSource.PlayOneShot(soundScriptableOb.GetAudio(AudioType.knob));
+            if (inventaries.inventaryTypes.Contains(InventaryType.key))
             {
+
                 StartCoroutine(open());
             }
-        }        
-    }
-    private void OnTriggerExit(Collider other)
-    {
-        _animator.SetBool("isOpen", false);
-        imageWin.SetActive(false);
-        Cursor.lockState = CursorLockMode.Locked;
-    }
+        }
+        if (isOpen)
+        {
+            _animator.SetBool("isOpen", false);
+            imageWin.SetActive(false);
+            Cursor.lockState = CursorLockMode.Locked;
+            isOpen = false;
+        }
+    }  
 
     private IEnumerator open()
     {
@@ -45,5 +49,7 @@ public class OpenDoor : MonoBehaviour
         audioSource.PlayOneShot(soundScriptableOb.GetAudio(AudioType.win));
         imageWin.SetActive(true);       
         Cursor.lockState = CursorLockMode.None;
+        isOpen = true;
     }
+ 
 }

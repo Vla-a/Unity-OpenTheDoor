@@ -4,8 +4,9 @@ using UnityEngine;
 
 public class Character : MonoBehaviour
 {
+    private bool isActive;
     private Ray ray;
-    private RaycastHit hit;
+    private RaycastHit hit;   
     [SerializeField] private Camera playerCamera;
     [SerializeField] private LayerMask layerMask;
     void Update()
@@ -23,10 +24,26 @@ public class Character : MonoBehaviour
         if (Physics.Raycast(ray, out hit, 2f, layerMask))
         {          
             if (Input.GetMouseButtonDown(0))
-            {
-                Debug.Log(hit.collider.gameObject.tag);
+            {             
+               
                 GameController.Instance.PickObject(hit.collider.gameObject.tag);
-                Debug.Log(hit.collider.gameObject.tag);
+                
+                if (hit.transform.TryGetComponent<Pickable>(out var obj))
+                {
+                    isActive = true;
+                    obj.PickUp();
+                }
+                if (hit.transform.TryGetComponent(out Interaction interaction))
+                {
+                    interaction.Interract();
+                }
+            }
+            if (Input.GetKeyDown(KeyCode.E))
+            {
+                if(hit.transform.TryGetComponent(out  Interaction interaction))
+                {
+                    interaction.Interract();
+                }
             }
 
             Debug.DrawRay(ray.origin, ray.direction * 2f, Color.blue);
@@ -34,7 +51,15 @@ public class Character : MonoBehaviour
 
         if (hit.transform == null)
         {
-            Debug.DrawRay(ray.origin, ray.direction * 2f, Color.red);           
+            Debug.DrawRay(ray.origin, ray.direction * 2f, Color.red);
+            if (Input.GetMouseButtonDown(0))
+            {
+                if (isActive)
+                {                    
+                    isActive = false;
+                }
+                   
+            }                           
         }
     }
 }

@@ -11,6 +11,7 @@ public class SaveOpen : MonoBehaviour
 	[SerializeField] private SoundScriptableOb soundScriptableOb;	
 	[SerializeField] private GameObject text;
 	[SerializeField] private InputField input;	
+	[SerializeField] private Animator animatorHandle;
 	private const string PASWWORD = "1508";
 	private Animator _animator;
 	private AudioSource audioSource;
@@ -19,6 +20,7 @@ public class SaveOpen : MonoBehaviour
 	{
 		audioSource = GetComponent<AudioSource>();
 		_animator = GetComponent<Animator>();
+		
 	}
     private void OnTriggerEnter(Collider other)
     {
@@ -34,12 +36,8 @@ public class SaveOpen : MonoBehaviour
 				audioSource.PlayOneShot(soundScriptableOb.GetAudio(AudioType.knob));
 				if (input.text == PASWWORD)
 				{
-				playerCamera.SetActive(true);
-				camera.SetActive(false);
-				audioSource.PlayOneShot(soundScriptableOb.GetAudio(AudioType.door));
-				_animator.SetBool("isSave", true);
-				Cursor.lockState = CursorLockMode.Locked;
-			    }
+				StartCoroutine(correct());
+			}
 				else StartCoroutine(incorrect());				
 			}
 	}
@@ -57,5 +55,15 @@ public class SaveOpen : MonoBehaviour
 		audioSource.PlayOneShot(soundScriptableOb.GetAudio(AudioType.no));
 		yield return new WaitForSeconds(2f);
 		text.SetActive(false);		
+	}
+	private IEnumerator correct()
+	{
+		animatorHandle.SetTrigger("Open");
+			yield return new WaitForSeconds(1f);
+		playerCamera.SetActive(true);
+		camera.SetActive(false);
+		audioSource.PlayOneShot(soundScriptableOb.GetAudio(AudioType.door));
+		_animator.SetBool("isSave", true);
+		Cursor.lockState = CursorLockMode.Locked;
 	}
 }

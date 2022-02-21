@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class BtnSwitchLang : MonoBehaviour
 {
@@ -8,5 +9,6 @@ public class BtnSwitchLang : MonoBehaviour
     public void OnButtonClick()
     {
         localizationManager.CurrentLanguage = name;
+        SceneManager.LoadScene("MainMenuScenes");
     }
 }
