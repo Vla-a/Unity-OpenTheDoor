@@ -103,6 +103,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 54
       Script: {instanceID: 0}
+    - Class: 59
+      Script: {instanceID: 0}
     - Class: 64
       Script: {instanceID: 0}
     - Class: 65
@@ -1025,7 +1027,7 @@ ScriptsOnlyBuild:
     className: Mask
   - hash:
       serializedVersion: 2
-      Hash: accc22fd568ce1121f3ae398ad422b45
+      Hash: 4c59660c237234f2c179e6f2ce22f931
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: AddInventaru
@@ -1457,7 +1459,7 @@ ScriptsOnlyBuild:
     className: OpenDoor
   - hash:
       serializedVersion: 2
-      Hash: fd4f86592e4c455212eb746fc605c23a
+      Hash: e1de598bd5b3d1019ea7c30961dc81cb
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ImageActive

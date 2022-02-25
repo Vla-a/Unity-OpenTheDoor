@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-02-25T11:45:59.711+03:00
+  lastUpdatedAtString: 2022-02-25T14:10:17.732+03:00
   initializedAtString: 2022-02-25T08:58:52.947+03:00
   entries:
   - path: .vs\OpenTheDoor\v17\.suo
@@ -22,127 +22,54 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scenes\Game.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scenes\Game.meta
-    projectPath: Assets\Scenes\Game.meta
+  - path: Assets\Models\TecstyreStefani\Materials.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Materials.meta
+    projectPath: Assets\Models\TecstyreStefani\Materials.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Materials\Stefani_Body_Diffuse.mat
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Materials\Stefani_Body_Diffuse.mat
+    projectPath: Assets\Models\TecstyreStefani\Materials\Stefani_Body_Diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Materials\Stefani_Body_Diffuse.mat.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Materials\Stefani_Body_Diffuse.mat.meta
+    projectPath: Assets\Models\TecstyreStefani\Materials\Stefani_Body_Diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Materials\Stefani_Hair_Diffuse.mat
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Materials\Stefani_Hair_Diffuse.mat
+    projectPath: Assets\Models\TecstyreStefani\Materials\Stefani_Hair_Diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Materials\Stefani_Hair_Diffuse.mat.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Materials\Stefani_Hair_Diffuse.mat.meta
+    projectPath: Assets\Models\TecstyreStefani\Materials\Stefani_Hair_Diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\CubeNamberTwo.prefab
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\CubeNamberTwo.prefab
+    projectPath: Assets\Prefab\CubeNamberTwo.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefab\CubeNumberOne.prefab
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\CubeNumberOne.prefab
+    projectPath: Assets\Prefab\CubeNumberOne.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scenes\Game.unity
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scenes\Game.unity
     projectPath: Assets\Scenes\Game.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scenes\Game\LightingData.asset
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scenes\Game\LightingData.asset
-    projectPath: Assets\Scenes\Game\LightingData.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Game\LightingData.asset.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scenes\Game\LightingData.asset.meta
-    projectPath: Assets\Scenes\Game\LightingData.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Game\Lightmap-0_comp_dir.png
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scenes\Game\Lightmap-0_comp_dir.png
-    projectPath: Assets\Scenes\Game\Lightmap-0_comp_dir.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Game\Lightmap-0_comp_dir.png.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scenes\Game\Lightmap-0_comp_dir.png.meta
-    projectPath: Assets\Scenes\Game\Lightmap-0_comp_dir.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Game\Lightmap-0_comp_light.exr
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scenes\Game\Lightmap-0_comp_light.exr
-    projectPath: Assets\Scenes\Game\Lightmap-0_comp_light.exr
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Game\Lightmap-0_comp_light.exr.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scenes\Game\Lightmap-0_comp_light.exr.meta
-    projectPath: Assets\Scenes\Game\Lightmap-0_comp_light.exr.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Game\ReflectionProbe-0.exr
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scenes\Game\ReflectionProbe-0.exr
-    projectPath: Assets\Scenes\Game\ReflectionProbe-0.exr
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Game\ReflectionProbe-0.exr.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scenes\Game\ReflectionProbe-0.exr.meta
-    projectPath: Assets\Scenes\Game\ReflectionProbe-0.exr.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\MainMenuScenes.unity
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scenes\MainMenuScenes.unity
-    projectPath: Assets\Scenes\MainMenuScenes.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\ScriptableObject\New Sound Scriptable Ob.asset
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\ScriptableObject\New Sound Scriptable
-      Ob.asset
-    projectPath: Assets\ScriptableObject\New Sound Scriptable Ob.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Inventory\AddInventaru.cs
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\AddInventaru.cs
-    projectPath: Assets\Scripts\Inventory\AddInventaru.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Inventory\Inventaries.cs
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\Inventaries.cs
-    projectPath: Assets\Scripts\Inventory\Inventaries.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Password\ImageActive.cs
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Password\ImageActive.cs
-    projectPath: Assets\Scripts\Password\ImageActive.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\ScriptObject\SoundScriptableOb.cs
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\ScriptObject\SoundScriptableOb.cs
-    projectPath: Assets\Scripts\ScriptObject\SoundScriptableOb.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Sounds\close (2).mp3
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Sounds\close (2).mp3
-    projectPath: Assets\Sounds\close (2).mp3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Sounds\close (2).mp3.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Sounds\close (2).mp3.meta
-    projectPath: Assets\Sounds\close (2).mp3.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Sounds\giveObject.mp3
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Sounds\giveObject.mp3
-    projectPath: Assets\Sounds\giveObject.mp3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Sounds\giveObject.mp3.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Sounds\giveObject.mp3.meta
-    projectPath: Assets\Sounds\giveObject.mp3.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assets\StreamingAssets\Languages\en_US.json
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\StreamingAssets\Languages\en_US.json
     projectPath: Assets\StreamingAssets\Languages\en_US.json
@@ -161,51 +88,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Bee\1900b0aP.dag
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\1900b0aP.dag
-    projectPath: Library\Bee\1900b0aP.dag
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\1900b0aP.dag.json
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\1900b0aP.dag.json
-    projectPath: Library\Bee\1900b0aP.dag.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\1900b0aP.dag_derived
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\1900b0aP.dag_derived
-    projectPath: Library\Bee\1900b0aP.dag_derived
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\Bee\1900b0aP.dag_fsmtime
     fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\1900b0aP.dag_fsmtime
     projectPath: Library\Bee\1900b0aP.dag_fsmtime
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\1900b0aP-inputdata.json
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\1900b0aP-inputdata.json
-    projectPath: Library\Bee\1900b0aP-inputdata.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aEDbg.dag\Assembly-CSharp.dll
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\artifacts\1900b0aEDbg.dag\Assembly-CSharp.dll
-    projectPath: Library\Bee\artifacts\1900b0aEDbg.dag\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aEDbg.dag\Assembly-CSharp.pdb
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\artifacts\1900b0aEDbg.dag\Assembly-CSharp.pdb
-    projectPath: Library\Bee\artifacts\1900b0aEDbg.dag\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aEDbg.dag\Assembly-CSharp.ref.dll
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\artifacts\1900b0aEDbg.dag\Assembly-CSharp.ref.dll
-    projectPath: Library\Bee\artifacts\1900b0aEDbg.dag\Assembly-CSharp.ref.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -224,12 +109,6 @@ MonoBehaviour:
   - path: Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.ref.dll
     fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.ref.dll
     projectPath: Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.ref.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.rsp
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.rsp
-    projectPath: Library\Bee\artifacts\1900b0aP.dag\Assembly-CSharp.rsp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -266,12 +145,6 @@ MonoBehaviour:
   - path: Library\Bee\buildreport.json_1.traceevents
     fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\buildreport.json_1.traceevents
     projectPath: Library\Bee\buildreport.json_1.traceevents
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\fullprofile.json
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\fullprofile.json
-    projectPath: Library\Bee\fullprofile.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -335,12 +208,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\LastBuild.buildreport
     fullPath: D:\Uladzimir\OpenTheDoor\Library\LastBuild.buildreport
     projectPath: Library\LastBuild.buildreport
@@ -359,39 +226,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\PlayerDataCache\Win64\Data\level0
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\PlayerDataCache\Win64\Data\level0
-    projectPath: Library\PlayerDataCache\Win64\Data\level0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\PlayerDataCache\Win64\Data\level1
     fullPath: D:\Uladzimir\OpenTheDoor\Library\PlayerDataCache\Win64\Data\level1
     projectPath: Library\PlayerDataCache\Win64\Data\level1
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\PlayerDataCache\Win64\Data\resources.assets
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\PlayerDataCache\Win64\Data\resources.assets
-    projectPath: Library\PlayerDataCache\Win64\Data\resources.assets
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
-    projectPath: Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\PlayerDataCache\Win64\Data\sharedassets0.assets
-    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
     fullPath: D:\Uladzimir\OpenTheDoor\Library\PlayerDataCache\Win64\Data\sharedassets1.assets
     projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets1.resource
+    fullPath: D:\Uladzimir\OpenTheDoor\Library\PlayerDataCache\Win64\Data\sharedassets1.resource
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.resource
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -413,18 +262,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\Search\transactions.db
     fullPath: D:\Uladzimir\OpenTheDoor\Library\Search\transactions.db
     projectPath: Library\Search\transactions.db
@@ -434,12 +271,6 @@ MonoBehaviour:
   - path: Library\ShaderCache.db
     fullPath: D:\Uladzimir\OpenTheDoor\Library\ShaderCache.db
     projectPath: Library\ShaderCache.db
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -458,12 +289,6 @@ MonoBehaviour:
   - path: Library\StateCache\SceneView\13\133f5719feae8d9b768206748d53f262.json
     fullPath: D:\Uladzimir\OpenTheDoor\Library\StateCache\SceneView\13\133f5719feae8d9b768206748d53f262.json
     projectPath: Library\StateCache\SceneView\13\133f5719feae8d9b768206748d53f262.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: D:\Uladzimir\OpenTheDoor\Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
