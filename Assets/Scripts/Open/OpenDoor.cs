@@ -10,6 +10,7 @@ public class OpenDoor : MonoBehaviour, Interaction
     [SerializeField] private SoundScriptableOb soundScriptableOb;
     [SerializeField] private Inventaries inventaries;
     [SerializeField] private GameObject imageWin;
+    [SerializeField] private TimePlay player;
     private bool isOpen;
     private Animator _animator;
     private AudioSource audioSource;
@@ -28,8 +29,9 @@ public class OpenDoor : MonoBehaviour, Interaction
             audioSource.PlayOneShot(soundScriptableOb.GetAudio(AudioType.knob));
             if (inventaries.inventaryTypes.Contains(InventaryType.key))
             {
-
+                
                 StartCoroutine(open());
+                player.SetText();
             }
         }
         if (isOpen)

@@ -4,8 +4,9 @@ using UnityEngine;
 
 [AddComponentMenu("Breakable Windows/Breakable Window")]
 [RequireComponent(typeof(AudioSource))]
-public class BreakableWindow : MonoBehaviour {
-
+public class BreakableWindow : MonoBehaviour, Interaction
+{
+    [SerializeField] private AddInventaru addInventaru;
     [SerializeField] private SoundScriptableOb soundScriptableOb;
     private AudioSource audioSource;
 
@@ -258,10 +259,21 @@ public class BreakableWindow : MonoBehaviour {
         }        
     }
 
+    public void Interract()
+    {
+        
+        if (addInventaru.YesHummer())
+        {
+            breakWindow();
+        }       
+    }
+
     private IEnumerator soundPlay()
     {
         yield return new WaitForSeconds(1f);    
             audioSource.clip = soundScriptableOb.GetAudio(AudioType.street);
             audioSource.Play();        
     }
+
+ 
 }

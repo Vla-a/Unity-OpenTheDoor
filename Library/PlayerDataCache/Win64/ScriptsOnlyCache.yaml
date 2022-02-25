@@ -4,8 +4,6 @@ ScriptsOnlyBuild:
     - AddInventaru
     - BackMainScen
     - BreakableWindow
-    - BtnSwitchLang
-    - BulletCreate
     - CatMove
     - ChangeScen
     - Character
@@ -30,12 +28,15 @@ ScriptsOnlyBuild:
     - MoveableObject
     - ObjectDisappearance
     - OpenDoor
+    - OpenHint
     - OpenPazzle
     - OtherOpen
     - Pickable
     - SaveGame
     - SaveOpen
+    - SetObjectToScen
     - SoundScriptableOb
+    - TimePlay
     - TvVideo
     Cinemachine.dll:
     - Cinemachine.CinemachineBrain
@@ -43,11 +44,9 @@ ScriptsOnlyBuild:
     - Cinemachine.CinemachineVirtualCamera
     GitHub.Unity.45.dll:
     - GitHub.Unity.ApplicationCache
-    - GitHub.Unity.BranchesCache
     - GitHub.Unity.EnvironmentCache
     - GitHub.Unity.GitAheadBehindCache
     - GitHub.Unity.GitLocksCache
-    - GitHub.Unity.GitLogCache
     - GitHub.Unity.GitStatusCache
     - GitHub.Unity.RepositoryInfoCache
     Unity.Rider.Editor.dll:
@@ -61,10 +60,8 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -104,8 +101,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 54
       Script: {instanceID: 0}
-    - Class: 59
-      Script: {instanceID: 0}
     - Class: 64
       Script: {instanceID: 0}
     - Class: 65
@@ -141,91 +136,95 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2348}
     - Class: 114
-      Script: {instanceID: 2790}
+      Script: {instanceID: 2646}
     - Class: 114
-      Script: {instanceID: 2836}
+      Script: {instanceID: 2792}
     - Class: 114
-      Script: {instanceID: 2898}
+      Script: {instanceID: 2838}
     - Class: 114
-      Script: {instanceID: 2912}
+      Script: {instanceID: 2900}
     - Class: 114
-      Script: {instanceID: 2992}
+      Script: {instanceID: 2914}
     - Class: 114
-      Script: {instanceID: 3010}
+      Script: {instanceID: 2994}
     - Class: 114
-      Script: {instanceID: 3148}
+      Script: {instanceID: 3012}
     - Class: 114
-      Script: {instanceID: 3178}
+      Script: {instanceID: 3150}
     - Class: 114
-      Script: {instanceID: 3194}
+      Script: {instanceID: 3180}
     - Class: 114
-      Script: {instanceID: 3302}
+      Script: {instanceID: 3196}
     - Class: 114
-      Script: {instanceID: 3448}
+      Script: {instanceID: 3304}
     - Class: 114
-      Script: {instanceID: 3480}
+      Script: {instanceID: 3450}
     - Class: 114
-      Script: {instanceID: 3826}
+      Script: {instanceID: 3482}
     - Class: 114
-      Script: {instanceID: 4366}
+      Script: {instanceID: 3828}
     - Class: 114
       Script: {instanceID: 4376}
     - Class: 114
-      Script: {instanceID: 4476}
+      Script: {instanceID: 4474}
     - Class: 114
-      Script: {instanceID: 5332}
+      Script: {instanceID: 5328}
     - Class: 114
-      Script: {instanceID: 5422}
+      Script: {instanceID: 5418}
     - Class: 114
-      Script: {instanceID: 5604}
+      Script: {instanceID: 5600}
     - Class: 114
-      Script: {instanceID: 5622}
+      Script: {instanceID: 5618}
     - Class: 114
-      Script: {instanceID: 5660}
+      Script: {instanceID: 5656}
     - Class: 114
-      Script: {instanceID: 5686}
+      Script: {instanceID: 5680}
     - Class: 114
-      Script: {instanceID: 5912}
+      Script: {instanceID: 5904}
     - Class: 114
-      Script: {instanceID: 5988}
+      Script: {instanceID: 5980}
     - Class: 114
-      Script: {instanceID: 6180}
+      Script: {instanceID: 6172}
     - Class: 114
-      Script: {instanceID: 6220}
+      Script: {instanceID: 6212}
     - Class: 114
-      Script: {instanceID: 6374}
+      Script: {instanceID: 6362}
     - Class: 114
-      Script: {instanceID: 6408}
+      Script: {instanceID: 6368}
     - Class: 114
-      Script: {instanceID: 6418}
+      Script: {instanceID: 6402}
     - Class: 114
-      Script: {instanceID: 6828}
+      Script: {instanceID: 6412}
     - Class: 114
-      Script: {instanceID: 6868}
+      Script: {instanceID: 6820}
     - Class: 114
-      Script: {instanceID: 6934}
+      Script: {instanceID: 6860}
     - Class: 114
-      Script: {instanceID: 6936}
+      Script: {instanceID: 6926}
     - Class: 114
-      Script: {instanceID: 7052}
+      Script: {instanceID: 6928}
     - Class: 114
-      Script: {instanceID: 7358}
+      Script: {instanceID: 7044}
     - Class: 114
-      Script: {instanceID: 7406}
+      Script: {instanceID: 7222}
     - Class: 114
-      Script: {instanceID: 7538}
+      Script: {instanceID: 7354}
     - Class: 114
-      Script: {instanceID: 7680}
+      Script: {instanceID: 7400}
     - Class: 114
-      Script: {instanceID: 8094}
+      Script: {instanceID: 7532}
     - Class: 114
-      Script: {instanceID: 8516}
+      Script: {instanceID: 7674}
     - Class: 114
-      Script: {instanceID: 8668}
+      Script: {instanceID: 8088}
     - Class: 114
-      Script: {instanceID: 8732}
+      Script: {instanceID: 8506}
     - Class: 114
-      Script: {instanceID: 25926}
+      Script: {instanceID: 8658}
+    - Class: 114
+      Script: {instanceID: 8722}
+    - Class: 114
+      Script: {instanceID: 26126}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -247,6 +246,8 @@ ScriptsOnlyBuild:
     - Class: 198
       Script: {instanceID: 0}
     - Class: 199
+      Script: {instanceID: 0}
+    - Class: 208
       Script: {instanceID: 0}
     - Class: 213
       Script: {instanceID: 0}
@@ -302,33 +303,31 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2452}
     - Class: 114
-      Script: {instanceID: 2912}
+      Script: {instanceID: 2914}
     - Class: 114
-      Script: {instanceID: 3148}
+      Script: {instanceID: 3150}
     - Class: 114
-      Script: {instanceID: 3448}
+      Script: {instanceID: 3450}
     - Class: 114
-      Script: {instanceID: 4490}
+      Script: {instanceID: 4488}
     - Class: 114
-      Script: {instanceID: 4614}
+      Script: {instanceID: 4610}
     - Class: 114
-      Script: {instanceID: 4904}
+      Script: {instanceID: 4900}
     - Class: 114
-      Script: {instanceID: 5614}
+      Script: {instanceID: 5610}
     - Class: 114
-      Script: {instanceID: 5706}
+      Script: {instanceID: 5700}
     - Class: 114
-      Script: {instanceID: 5738}
+      Script: {instanceID: 5980}
     - Class: 114
-      Script: {instanceID: 5988}
+      Script: {instanceID: 6402}
     - Class: 114
-      Script: {instanceID: 6408}
+      Script: {instanceID: 6820}
     - Class: 114
-      Script: {instanceID: 6828}
+      Script: {instanceID: 6926}
     - Class: 114
-      Script: {instanceID: 6934}
-    - Class: 114
-      Script: {instanceID: 7400}
+      Script: {instanceID: 7394}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -372,7 +371,7 @@ ScriptsOnlyBuild:
     className: ChangeScen
   - hash:
       serializedVersion: 2
-      Hash: be9466d73245b7ae154d1edec6f13998
+      Hash: 8806119b22b295ea5b76f184d50fc986
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: SaveGame
@@ -558,6 +557,12 @@ ScriptsOnlyBuild:
     className: RawImage
   - hash:
       serializedVersion: 2
+      Hash: 9a57879c044b5d2f8905680f7f49ccbb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: OpenHint
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp-firstpass.dll
     namespaceName: UnityStandardAssets.ImageEffects
@@ -696,7 +701,7 @@ ScriptsOnlyBuild:
     className: GraphicRaycaster
   - hash:
       serializedVersion: 2
-      Hash: f8fcd19b0eb70b14873762c6377b6111
+      Hash: b908df8bdf6abeb352a574646aaba638
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: InventaryItem
@@ -1026,22 +1031,10 @@ ScriptsOnlyBuild:
     className: Mask
   - hash:
       serializedVersion: 2
-      Hash: 0cb9a74541fe7ad85efe8546644c7541
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: BulletCreate
-  - hash:
-      serializedVersion: 2
-      Hash: 5352a4953c82de567f8a47f20b909e73
+      Hash: accc22fd568ce1121f3ae398ad422b45
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: AddInventaru
-  - hash:
-      serializedVersion: 2
-      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: CameraRotator
   - hash:
       serializedVersion: 2
       Hash: e6d75f1a9bc0c6f7085df0baa077e688
@@ -1096,12 +1089,6 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: PhysicsRaycaster
-  - hash:
-      serializedVersion: 2
-      Hash: d258d84e001f40f7b66eecf228f38759
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: useHandle
   - hash:
       serializedVersion: 2
       Hash: 1e3d6222ff533d213aab144eb854a53b
@@ -1278,7 +1265,7 @@ ScriptsOnlyBuild:
     className: CinemachineBlendListCamera
   - hash:
       serializedVersion: 2
-      Hash: 22ad7bc2ba3bae102f301762a0d206cb
+      Hash: 5824c9e1c8b636517f3c0cc8a49a4c1c
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: GetCode
@@ -1392,16 +1379,10 @@ ScriptsOnlyBuild:
     className: UnityOnCollisionEnter2DMessageListener
   - hash:
       serializedVersion: 2
-      Hash: d0eb32e74f090e01730d21386cf614c5
+      Hash: ba47454d0d0b0e32ed9711d26c0dfe1c
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: CatMove
-  - hash:
-      serializedVersion: 2
-      Hash: 61171ad06367333ed366f182634a35ec
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ClockScript
   - hash:
       serializedVersion: 2
       Hash: e6f0efd0e20669d577e9d21526b3d3f9
@@ -1420,12 +1401,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_FontAsset
-  - hash:
-      serializedVersion: 2
-      Hash: 50d940c841e047302c93b2bb5294d7b8
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: BtnSwitchLang
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1482,13 +1457,13 @@ ScriptsOnlyBuild:
     className: Text
   - hash:
       serializedVersion: 2
-      Hash: be893c66a2d5354934cceab481f7e506
+      Hash: 1d063b220b6b880fdc75e2f558d8a98e
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: OpenDoor
   - hash:
       serializedVersion: 2
-      Hash: 438095b4e4550b7677c7826868ad86bd
+      Hash: fd4f86592e4c455212eb746fc605c23a
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ImageActive
@@ -1516,6 +1491,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: TMPro.Examples
     className: Benchmark02
+  - hash:
+      serializedVersion: 2
+      Hash: 48572279605009607ab9aff5370c7a88
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SetObjectToScen
   - hash:
       serializedVersion: 2
       Hash: 62824bb9557c7e987502f2fbd2a26819
@@ -1576,12 +1557,6 @@ ScriptsOnlyBuild:
     assemblyName: Cinemachine.dll
     namespaceName: Cinemachine
     className: CinemachineClearShot
-  - hash:
-      serializedVersion: 2
-      Hash: e570c8f32c37583af362720d6ccdb273
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: CatNav
   - hash:
       serializedVersion: 2
       Hash: cf9f5cf2c3145a37ac07f00e50e460f9
@@ -1716,6 +1691,12 @@ ScriptsOnlyBuild:
     className: VignetteAndChromaticAberration
   - hash:
       serializedVersion: 2
+      Hash: c240aac4a6cb21e2131f485e6063c61f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TimePlay
+  - hash:
+      serializedVersion: 2
       Hash: bd3f0ca738703903e759f77536ed74fd
     assemblyName: Assembly-CSharp.dll
     namespaceName: TMPro.Examples
@@ -1740,16 +1721,10 @@ ScriptsOnlyBuild:
     className: Outline
   - hash:
       serializedVersion: 2
-      Hash: c7c523a0d20c1992e55deb8db3905227
+      Hash: 506a46c9d8bef70b75472f02a35d5d88
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ObjectDisappearance
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: SafeUnlockScript
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1770,7 +1745,7 @@ ScriptsOnlyBuild:
     className: VerticalLayoutGroup
   - hash:
       serializedVersion: 2
-      Hash: c29617f8342e59b1cf3e966864454829
+      Hash: dda3bb5daecb8aaca4775c1f446d918a
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: BreakableWindow
@@ -1950,7 +1925,7 @@ ScriptsOnlyBuild:
     className: ControlTrack
   - hash:
       serializedVersion: 2
-      Hash: d477ef82dff80f10365ba5eb45df9cca
+      Hash: dcfdfdb3114f331cf9b44b4b92a2ccf6
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Pickable
@@ -1987,21 +1962,9 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Bullet
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnParticleCollisionMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 8512cfa0364b8681e2e374a74f329821
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: OnOffTvScript
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -2140,12 +2103,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnToggleValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: c3346beb9dadd06685223c76797ccf18
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: OpenTextFile
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f

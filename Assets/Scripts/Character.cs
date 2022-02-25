@@ -24,15 +24,14 @@ public class Character : MonoBehaviour
         if (Physics.Raycast(ray, out hit, 2f, layerMask))
         {          
             if (Input.GetMouseButtonDown(0))
-            {             
-               
-                GameController.Instance.PickObject(hit.collider.gameObject.tag);
+            {                           
                 
                 if (hit.transform.TryGetComponent<Pickable>(out var obj))
                 {
                     isActive = true;
                     obj.PickUp();
                 }
+
                 if (hit.transform.TryGetComponent(out Interaction interaction))
                 {
                     interaction.Interract();
@@ -40,10 +39,10 @@ public class Character : MonoBehaviour
             }
             if (Input.GetKeyDown(KeyCode.E))
             {
-                if(hit.transform.TryGetComponent(out  Interaction interaction))
-                {
-                    interaction.Interract();
-                }
+                //if(hit.transform.TryGetComponent(out  Interaction interaction))
+                //{
+                //    interaction.Interract();
+                //}    
             }
 
             Debug.DrawRay(ray.origin, ray.direction * 2f, Color.blue);

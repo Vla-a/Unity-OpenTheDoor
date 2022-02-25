@@ -67,6 +67,22 @@
     {
       "key": "Yes",
       "value": "Yes"
+    },
+    {
+      "key": "Hint",
+      "value": "You have to take the key in the safe and open the door. Complete tasks and collect cubes to get a part of the password from the safe"
+    },
+    {
+      "key": "NameTime",
+      "value": "Finish Time (mm:ss) - "
+    },
+    {
+      "key": "MainMenu",
+      "value": "Main Menu"
+    },
+    {
+      "key": "TextTopic",
+      "value": "Press E to display the task"
     }
   ]
 }

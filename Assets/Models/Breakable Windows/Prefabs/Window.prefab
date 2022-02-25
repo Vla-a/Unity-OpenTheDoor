@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 23026058275702258}
   - component: {fileID: 114381180135537044}
   - component: {fileID: 82815429267135604}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Window
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -111,6 +111,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e485ffd1c36d8f3469c0cfc672808fee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  addInventaru: {fileID: 930008921695373093, guid: bf05068b826a7854fb9289ddc70eba53,
+    type: 3}
   soundScriptableOb: {fileID: 11400000, guid: ae6ef624242a84e40b07d143c8334e35, type: 2}
   layer:
     serializedVersion: 2

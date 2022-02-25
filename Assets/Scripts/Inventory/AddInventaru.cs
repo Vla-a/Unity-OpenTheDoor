@@ -5,13 +5,18 @@ using UnityEngine.UI;
 
 public class AddInventaru : MonoBehaviour
 {
-    [SerializeField] private InventaryItem prefubItem;
-    [SerializeField] private InventoryImage inventoryImage;
+    [SerializeField] private InventaryItem prefubItem;    
     [SerializeField] private GameObject parentForInventorySlot;
+    private List<InventaryType> list;
 
+    private void Awake()
+    {
+        list = new List<InventaryType>();
+    }
     private void Start()
     {
         GameController.Instance.Inventary += AddItem;
+        
     }
 
     private void OnDestroy()
@@ -22,7 +27,18 @@ public class AddInventaru : MonoBehaviour
     public void AddItem(InventaryType inventaryType)    {
 
         InventaryItem inventorySlot = Instantiate(prefubItem, parentForInventorySlot.transform);        
-        inventorySlot.setItemType(inventaryType);   
+        inventorySlot.setItemType(inventaryType); 
+        
+        list.Add(inventorySlot.type);       
+    }
 
+    public bool YesHummer()
+    {
+        if(list.Count > 0)
+        {
+            return list.Contains(InventaryType.hummer);
+        }
+        else return false;
+    
     }
 }

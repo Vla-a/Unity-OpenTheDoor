@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-02-21T08:27:38.012+03:00
-  initializedAtString: 2022-02-21T08:09:01.352+03:00
+  lastUpdatedAtString: 2022-02-25T10:20:53.670+03:00
+  initializedAtString: 2022-02-25T08:58:52.947+03:00
   entries:
   - path: .vs\OpenTheDoor\v17\.suo
     fullPath: D:\Uladzimir\OpenTheDoor\.vs\OpenTheDoor\v17\.suo
@@ -28,15 +28,333 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Animator\ChestOfDraw.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw.meta
+    projectPath: Assets\Animator\ChestOfDraw.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\draw01.controller
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\draw01.controller
+    projectPath: Assets\Animator\ChestOfDraw\draw01.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\draw01.controller.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\draw01.controller.meta
+    projectPath: Assets\Animator\ChestOfDraw\draw01.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\draw02.controller
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\draw02.controller
+    projectPath: Assets\Animator\ChestOfDraw\draw02.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\draw02.controller.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\draw02.controller.meta
+    projectPath: Assets\Animator\ChestOfDraw\draw02.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\draw03.controller
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\draw03.controller
+    projectPath: Assets\Animator\ChestOfDraw\draw03.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\draw03.controller.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\draw03.controller.meta
+    projectPath: Assets\Animator\ChestOfDraw\draw03.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\draw04.controller
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\draw04.controller
+    projectPath: Assets\Animator\ChestOfDraw\draw04.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\draw04.controller.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\draw04.controller.meta
+    projectPath: Assets\Animator\ChestOfDraw\draw04.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\draw05.controller
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\draw05.controller
+    projectPath: Assets\Animator\ChestOfDraw\draw05.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\draw05.controller.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\draw05.controller.meta
+    projectPath: Assets\Animator\ChestOfDraw\draw05.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\draw06.controller
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\draw06.controller
+    projectPath: Assets\Animator\ChestOfDraw\draw06.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\draw06.controller.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\draw06.controller.meta
+    projectPath: Assets\Animator\ChestOfDraw\draw06.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\draw07.controller
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\draw07.controller
+    projectPath: Assets\Animator\ChestOfDraw\draw07.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\draw07.controller.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\draw07.controller.meta
+    projectPath: Assets\Animator\ChestOfDraw\draw07.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\NoDraw01Animation.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\NoDraw01Animation.anim
+    projectPath: Assets\Animator\ChestOfDraw\NoDraw01Animation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\NoDraw01Animation.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\NoDraw01Animation.anim.meta
+    projectPath: Assets\Animator\ChestOfDraw\NoDraw01Animation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\NoDraw02Animation.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\NoDraw02Animation.anim
+    projectPath: Assets\Animator\ChestOfDraw\NoDraw02Animation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\NoDraw02Animation.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\NoDraw02Animation.anim.meta
+    projectPath: Assets\Animator\ChestOfDraw\NoDraw02Animation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\NoDraw03Animation.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\NoDraw03Animation.anim
+    projectPath: Assets\Animator\ChestOfDraw\NoDraw03Animation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\NoDraw03Animation.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\NoDraw03Animation.anim.meta
+    projectPath: Assets\Animator\ChestOfDraw\NoDraw03Animation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\NoDraw04Animation.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\NoDraw04Animation.anim
+    projectPath: Assets\Animator\ChestOfDraw\NoDraw04Animation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\NoDraw04Animation.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\NoDraw04Animation.anim.meta
+    projectPath: Assets\Animator\ChestOfDraw\NoDraw04Animation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\NoDraw05Animation.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\NoDraw05Animation.anim
+    projectPath: Assets\Animator\ChestOfDraw\NoDraw05Animation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\NoDraw05Animation.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\NoDraw05Animation.anim.meta
+    projectPath: Assets\Animator\ChestOfDraw\NoDraw05Animation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\NoDraw06Animation.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\NoDraw06Animation.anim
+    projectPath: Assets\Animator\ChestOfDraw\NoDraw06Animation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\NoDraw06Animation.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\NoDraw06Animation.anim.meta
+    projectPath: Assets\Animator\ChestOfDraw\NoDraw06Animation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\NoDraw07Animation.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\NoDraw07Animation.anim
+    projectPath: Assets\Animator\ChestOfDraw\NoDraw07Animation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\NoDraw07Animation.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\NoDraw07Animation.anim.meta
+    projectPath: Assets\Animator\ChestOfDraw\NoDraw07Animation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\OpenDraw01Animation.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\OpenDraw01Animation.anim
+    projectPath: Assets\Animator\ChestOfDraw\OpenDraw01Animation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\OpenDraw01Animation.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\OpenDraw01Animation.anim.meta
+    projectPath: Assets\Animator\ChestOfDraw\OpenDraw01Animation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\OpenDraw02Animation.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\OpenDraw02Animation.anim
+    projectPath: Assets\Animator\ChestOfDraw\OpenDraw02Animation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\OpenDraw02Animation.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\OpenDraw02Animation.anim.meta
+    projectPath: Assets\Animator\ChestOfDraw\OpenDraw02Animation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\OpenDraw03Animation.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\OpenDraw03Animation.anim
+    projectPath: Assets\Animator\ChestOfDraw\OpenDraw03Animation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\OpenDraw03Animation.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\OpenDraw03Animation.anim.meta
+    projectPath: Assets\Animator\ChestOfDraw\OpenDraw03Animation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\OpenDraw04Animation.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\OpenDraw04Animation.anim
+    projectPath: Assets\Animator\ChestOfDraw\OpenDraw04Animation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\OpenDraw04Animation.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\OpenDraw04Animation.anim.meta
+    projectPath: Assets\Animator\ChestOfDraw\OpenDraw04Animation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\OpenDraw05Animation.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\OpenDraw05Animation.anim
+    projectPath: Assets\Animator\ChestOfDraw\OpenDraw05Animation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\OpenDraw05Animation.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\OpenDraw05Animation.anim.meta
+    projectPath: Assets\Animator\ChestOfDraw\OpenDraw05Animation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\OpenDraw06Animation.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\OpenDraw06Animation.anim
+    projectPath: Assets\Animator\ChestOfDraw\OpenDraw06Animation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\OpenDraw06Animation.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\OpenDraw06Animation.anim.meta
+    projectPath: Assets\Animator\ChestOfDraw\OpenDraw06Animation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\OpenDraw07Animation.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\OpenDraw07Animation.anim
+    projectPath: Assets\Animator\ChestOfDraw\OpenDraw07Animation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\ChestOfDraw\OpenDraw07Animation.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\ChestOfDraw\OpenDraw07Animation.anim.meta
+    projectPath: Assets\Animator\ChestOfDraw\OpenDraw07Animation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\Closet.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\Closet.meta
+    projectPath: Assets\Animator\Closet.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\Closet\Closet_Close.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\Closet\Closet_Close.anim
+    projectPath: Assets\Animator\Closet\Closet_Close.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\Closet\Closet_Close.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\Closet\Closet_Close.anim.meta
+    projectPath: Assets\Animator\Closet\Closet_Close.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\Closet\Closet_Open.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\Closet\Closet_Open.anim
+    projectPath: Assets\Animator\Closet\Closet_Open.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\Closet\Closet_Open.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\Closet\Closet_Open.anim.meta
+    projectPath: Assets\Animator\Closet\Closet_Open.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\Closet\ClosetAnimatior.controller
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\Closet\ClosetAnimatior.controller
+    projectPath: Assets\Animator\Closet\ClosetAnimatior.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\Closet\ClosetAnimatior.controller.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\Closet\ClosetAnimatior.controller.meta
+    projectPath: Assets\Animator\Closet\ClosetAnimatior.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Animator\SaveAnim\handle.controller
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\SaveAnim\handle.controller
     projectPath: Assets\Animator\SaveAnim\handle.controller
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Animator\SaveAnim\HandleAnimation.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\SaveAnim\HandleAnimation.anim
+    projectPath: Assets\Animator\SaveAnim\HandleAnimation.anim
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Animator\SaveAnim\handle.controller.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\SaveAnim\handle.controller.meta
-    projectPath: Assets\Animator\SaveAnim\handle.controller.meta
+  - path: Assets\Animator\SaveAnim\HandleAnimation.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\SaveAnim\HandleAnimation.anim.meta
+    projectPath: Assets\Animator\SaveAnim\HandleAnimation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\SaveAnim\HandleOpenAnimation.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\SaveAnim\HandleOpenAnimation.anim
+    projectPath: Assets\Animator\SaveAnim\HandleOpenAnimation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animator\SaveAnim\HandleOpenAnimation.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\SaveAnim\HandleOpenAnimation.anim.meta
+    projectPath: Assets\Animator\SaveAnim\HandleOpenAnimation.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -44,65 +362,89 @@ MonoBehaviour:
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\SaveAnim\HandleSaveNo.anim
     projectPath: Assets\Animator\SaveAnim\HandleSaveNo.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Animator\SaveAnim\HandleSaveNo.anim.meta
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\SaveAnim\HandleSaveNo.anim.meta
     projectPath: Assets\Animator\SaveAnim\HandleSaveNo.anim.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Animator\SaveAnim\HandleSaveOpen.anim
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\SaveAnim\HandleSaveOpen.anim
     projectPath: Assets\Animator\SaveAnim\HandleSaveOpen.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Animator\SaveAnim\HandleSaveOpen.anim.meta
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\SaveAnim\HandleSaveOpen.anim.meta
     projectPath: Assets\Animator\SaveAnim\HandleSaveOpen.anim.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Collision\ball.png
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\ball.png
-    projectPath: Assets\Materials\Collision\ball.png
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Animator\SaveAnim\Save.controller
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Animator\SaveAnim\Save.controller
+    projectPath: Assets\Animator\SaveAnim\Save.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\CameraRotator.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\CameraRotator.cs
+    projectPath: Assets\CameraRotator.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\CameraRotator.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\CameraRotator.cs.meta
+    projectPath: Assets\CameraRotator.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\CatNav.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\CatNav.cs
+    projectPath: Assets\CatNav.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\CatNav.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\CatNav.cs.meta
+    projectPath: Assets\CatNav.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\ClockScript.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\ClockScript.cs
+    projectPath: Assets\ClockScript.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\ClockScript.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\ClockScript.cs.meta
+    projectPath: Assets\ClockScript.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Materials\Collision\exit.jpg
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\exit.jpg
+    projectPath: Assets\Materials\Collision\exit.jpg
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Collision\ball.png.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\ball.png.meta
-    projectPath: Assets\Materials\Collision\ball.png.meta
+  - path: Assets\Materials\Collision\exit.jpg.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\exit.jpg.meta
+    projectPath: Assets\Materials\Collision\exit.jpg.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Collision\gras.jpg
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\gras.jpg
-    projectPath: Assets\Materials\Collision\gras.jpg
+  - path: Assets\Materials\Collision\hummer.jpg
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\hummer.jpg
+    projectPath: Assets\Materials\Collision\hummer.jpg
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Materials\Collision\gras.jpg.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\gras.jpg.meta
-    projectPath: Assets\Materials\Collision\gras.jpg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Collision\Materials.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\Materials.meta
-    projectPath: Assets\Materials\Collision\Materials.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Collision\Materials\gras.mat
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\Materials\gras.mat
-    projectPath: Assets\Materials\Collision\Materials\gras.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Materials\Collision\Materials\gras.mat.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\Materials\gras.mat.meta
-    projectPath: Assets\Materials\Collision\Materials\gras.mat.meta
+  - path: Assets\Materials\Collision\hummer.jpg.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Materials\Collision\hummer.jpg.meta
+    projectPath: Assets\Materials\Collision\hummer.jpg.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -118,27 +460,993 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Models\FurnishedCabin\Animations.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\BedsideTable.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\BedsideTable.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\BedsideTable.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\BedsideTable\BedsideTable_Close.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\BedsideTable\BedsideTable_Close.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\BedsideTable\BedsideTable_Close.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\BedsideTable\BedsideTable_Close.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\BedsideTable\BedsideTable_Close.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\BedsideTable\BedsideTable_Close.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\BedsideTable\BedsideTable_Open.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\BedsideTable\BedsideTable_Open.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\BedsideTable\BedsideTable_Open.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\BedsideTable\BedsideTable_Open.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\BedsideTable\BedsideTable_Open.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\BedsideTable\BedsideTable_Open.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\BedsideTable\BedsideTableAnimator.controller
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\BedsideTable\BedsideTableAnimator.controller
+    projectPath: Assets\Models\FurnishedCabin\Animations\BedsideTable\BedsideTableAnimator.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\BedsideTable\BedsideTableAnimator.controller.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\BedsideTable\BedsideTableAnimator.controller.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\BedsideTable\BedsideTableAnimator.controller.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws01_Close.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws01_Close.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws01_Close.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws01_Close.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws01_Close.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws01_Close.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws01_Open.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws01_Open.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws01_Open.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws01_Open.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws01_Open.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws01_Open.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws02_Close.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws02_Close.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws02_Close.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws02_Close.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws02_Close.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws02_Close.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws02_Open.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws02_Open.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws02_Open.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws02_Open.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws02_Open.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws02_Open.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws03_Close.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws03_Close.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws03_Close.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws03_Close.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws03_Close.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws03_Close.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws03_Open.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws03_Open.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws03_Open.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws03_Open.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws03_Open.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws03_Open.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws04_Close.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws04_Close.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws04_Close.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws04_Close.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws04_Close.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws04_Close.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws04_Open.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws04_Open.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws04_Open.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws04_Open.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws04_Open.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws04_Open.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws05_Close.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws05_Close.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws05_Close.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws05_Close.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws05_Close.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws05_Close.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws05_Open.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws05_Open.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws05_Open.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws05_Open.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws05_Open.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws05_Open.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws06_Close.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws06_Close.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws06_Close.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws06_Close.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws06_Close.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws06_Close.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws06_Open.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws06_Open.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws06_Open.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws06_Open.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws06_Open.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws06_Open.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws07_Close.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws07_Close.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws07_Close.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws07_Close.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws07_Close.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws07_Close.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws07_Open.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws07_Open.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws07_Open.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws07_Open.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws07_Open.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDraws07_Open.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDrawsAnimator.controller
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDrawsAnimator.controller
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDrawsAnimator.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDrawsAnimator.controller.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDrawsAnimator.controller.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\ChestOfDraws\ChestOfDrawsAnimator.controller.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\Closet.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\Closet.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\Closet.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\Closet\Closet_Close.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\Closet\Closet_Close.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\Closet\Closet_Close.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\Closet\Closet_Close.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\Closet\Closet_Close.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\Closet\Closet_Close.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\Closet\Closet_Open.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\Closet\Closet_Open.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\Closet\Closet_Open.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\Closet\Closet_Open.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\Closet\Closet_Open.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\Closet\Closet_Open.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\Closet\ClosetAnimatior.controller
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\Closet\ClosetAnimatior.controller
+    projectPath: Assets\Models\FurnishedCabin\Animations\Closet\ClosetAnimatior.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\Closet\ClosetAnimatior.controller.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\Closet\ClosetAnimatior.controller.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\Closet\ClosetAnimatior.controller.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\TVStand.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\TVStand.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\TVStand.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door01_Close.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door01_Close.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door01_Close.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door01_Close.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door01_Close.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door01_Close.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door01_Open.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door01_Open.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door01_Open.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door01_Open.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door01_Open.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door01_Open.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door02_Close.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door02_Close.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door02_Close.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door02_Close.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door02_Close.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door02_Close.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door02_Open.anim
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door02_Open.anim
+    projectPath: Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door02_Open.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door02_Open.anim.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door02_Open.anim.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\TVStand\TVStand_Door02_Open.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\TVStand\TVStandAnimator.controller
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\TVStand\TVStandAnimator.controller
+    projectPath: Assets\Models\FurnishedCabin\Animations\TVStand\TVStandAnimator.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Animations\TVStand\TVStandAnimator.controller.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Animations\TVStand\TVStandAnimator.controller.meta
+    projectPath: Assets\Models\FurnishedCabin\Animations\TVStand\TVStandAnimator.controller.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Prefabs\PFB_BathroomSink.prefab
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Prefabs\PFB_BathroomSink.prefab
+    projectPath: Assets\Models\FurnishedCabin\Prefabs\PFB_BathroomSink.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Prefabs\PFB_BathroomSink.prefab.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Prefabs\PFB_BathroomSink.prefab.meta
+    projectPath: Assets\Models\FurnishedCabin\Prefabs\PFB_BathroomSink.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Prefabs\PFB_BedsideTable.prefab
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Prefabs\PFB_BedsideTable.prefab
+    projectPath: Assets\Models\FurnishedCabin\Prefabs\PFB_BedsideTable.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Models\FurnishedCabin\Prefabs\PFB_ChestOfDraws.prefab
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Prefabs\PFB_ChestOfDraws.prefab
+    projectPath: Assets\Models\FurnishedCabin\Prefabs\PFB_ChestOfDraws.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Models\FurnishedCabin\Prefabs\PFB_Closet.prefab
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Prefabs\PFB_Closet.prefab
+    projectPath: Assets\Models\FurnishedCabin\Prefabs\PFB_Closet.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Models\FurnishedCabin\Prefabs\PFB_TVStand.prefab
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Prefabs\PFB_TVStand.prefab
+    projectPath: Assets\Models\FurnishedCabin\Prefabs\PFB_TVStand.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Models\FurnishedCabin\Scripts.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Scripts.meta
+    projectPath: Assets\Models\FurnishedCabin\Scripts.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Scripts\MoveableObject.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Scripts\MoveableObject.cs
+    projectPath: Assets\Models\FurnishedCabin\Scripts\MoveableObject.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Scripts\MoveableObject.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Scripts\MoveableObject.cs.meta
+    projectPath: Assets\Models\FurnishedCabin\Scripts\MoveableObject.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Scripts\MoveObjectController.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Scripts\MoveObjectController.cs
+    projectPath: Assets\Models\FurnishedCabin\Scripts\MoveObjectController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\FurnishedCabin\Scripts\MoveObjectController.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\FurnishedCabin\Scripts\MoveObjectController.cs.meta
+    projectPath: Assets\Models\FurnishedCabin\Scripts\MoveObjectController.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\House\Shelter.unity
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\House\Shelter.unity
+    projectPath: Assets\Models\House\Shelter.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\House\Shelter.unity.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\House\Shelter.unity.meta
+    projectPath: Assets\Models\House\Shelter.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Ladymito\Free_cat\Animations\cat.controller
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\Ladymito\Free_cat\Animations\cat.controller
+    projectPath: Assets\Models\Ladymito\Free_cat\Animations\cat.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Models\TecstyreStefani.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani.meta
+    projectPath: Assets\Models\TecstyreStefani.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Body_Diffuse.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Body_Diffuse.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Body_Diffuse.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Body_Diffuse.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Body_Diffuse.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Body_Diffuse.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Body_Gloss.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Body_Gloss.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Body_Gloss.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Body_Gloss.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Body_Gloss.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Body_Gloss.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Body_Normal.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Body_Normal.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Body_Normal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Body_Normal.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Body_Normal.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Body_Normal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Body_Opacity.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Body_Opacity.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Body_Opacity.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Body_Opacity.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Body_Opacity.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Body_Opacity.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Body_Specular.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Body_Specular.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Body_Specular.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Body_Specular.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Body_Specular.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Body_Specular.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Bottom_Diffuse.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Bottom_Diffuse.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Bottom_Diffuse.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Bottom_Diffuse.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Bottom_Diffuse.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Bottom_Diffuse.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Bottom_Gloss.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Bottom_Gloss.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Bottom_Gloss.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Bottom_Gloss.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Bottom_Gloss.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Bottom_Gloss.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Bottom_Normal.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Bottom_Normal.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Bottom_Normal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Bottom_Normal.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Bottom_Normal.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Bottom_Normal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Bottom_Opacity.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Bottom_Opacity.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Bottom_Opacity.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Bottom_Opacity.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Bottom_Opacity.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Bottom_Opacity.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Bottom_Specular.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Bottom_Specular.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Bottom_Specular.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Bottom_Specular.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Bottom_Specular.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Bottom_Specular.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Hair_Diffuse.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Hair_Diffuse.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Hair_Diffuse.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Hair_Diffuse.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Hair_Diffuse.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Hair_Diffuse.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Hair_Gloss.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Hair_Gloss.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Hair_Gloss.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Hair_Gloss.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Hair_Gloss.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Hair_Gloss.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Hair_Normal.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Hair_Normal.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Hair_Normal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Hair_Normal.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Hair_Normal.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Hair_Normal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Hair_Opacity.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Hair_Opacity.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Hair_Opacity.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Hair_Opacity.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Hair_Opacity.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Hair_Opacity.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Hair_Specular.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Hair_Specular.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Hair_Specular.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Hair_Specular.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Hair_Specular.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Hair_Specular.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Shoes_Diffuse.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Shoes_Diffuse.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Shoes_Diffuse.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Shoes_Diffuse.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Shoes_Diffuse.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Shoes_Diffuse.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Shoes_Gloss.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Shoes_Gloss.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Shoes_Gloss.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Shoes_Gloss.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Shoes_Gloss.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Shoes_Gloss.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Shoes_Normal.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Shoes_Normal.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Shoes_Normal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Shoes_Normal.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Shoes_Normal.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Shoes_Normal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Shoes_Opacity.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Shoes_Opacity.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Shoes_Opacity.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Shoes_Opacity.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Shoes_Opacity.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Shoes_Opacity.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Shoes_Specular.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Shoes_Specular.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Shoes_Specular.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Shoes_Specular.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Shoes_Specular.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Shoes_Specular.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Top_Diffuse.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Top_Diffuse.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Top_Diffuse.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Top_Diffuse.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Top_Diffuse.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Top_Diffuse.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Top_Gloss.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Top_Gloss.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Top_Gloss.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Top_Gloss.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Top_Gloss.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Top_Gloss.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Top_Normal.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Top_Normal.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Top_Normal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Top_Normal.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Top_Normal.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Top_Normal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Top_Opacity.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Top_Opacity.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Top_Opacity.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Top_Opacity.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Top_Opacity.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Top_Opacity.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Top_Specular.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Top_Specular.png
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Top_Specular.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\TecstyreStefani\Stefani_Top_Specular.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\TecstyreStefani\Stefani_Top_Specular.png.meta
+    projectPath: Assets\Models\TecstyreStefani\Stefani_Top_Specular.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer.meta
+    projectPath: Assets\Models\urethane_hammer.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Materials.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Materials.meta
+    projectPath: Assets\Models\urethane_hammer\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Materials\urethane_hammer.mat
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Materials\urethane_hammer.mat
+    projectPath: Assets\Models\urethane_hammer\Materials\urethane_hammer.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Materials\urethane_hammer.mat.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Materials\urethane_hammer.mat.meta
+    projectPath: Assets\Models\urethane_hammer\Materials\urethane_hammer.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Models.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Models.meta
+    projectPath: Assets\Models\urethane_hammer\Models.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Models\urethane_hammer.FBX
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Models\urethane_hammer.FBX
+    projectPath: Assets\Models\urethane_hammer\Models\urethane_hammer.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Models\urethane_hammer.FBX.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Models\urethane_hammer.FBX.meta
+    projectPath: Assets\Models\urethane_hammer\Models\urethane_hammer.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Prefabs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Prefabs.meta
+    projectPath: Assets\Models\urethane_hammer\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Setting.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Setting.meta
+    projectPath: Assets\Models\urethane_hammer\Setting.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Setting\Materials.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Setting\Materials.meta
+    projectPath: Assets\Models\urethane_hammer\Setting\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Setting\Materials\floor.mat
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Setting\Materials\floor.mat
+    projectPath: Assets\Models\urethane_hammer\Setting\Materials\floor.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Setting\Materials\floor.mat.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Setting\Materials\floor.mat.meta
+    projectPath: Assets\Models\urethane_hammer\Setting\Materials\floor.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Setting\Materials\skybox.mat
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Setting\Materials\skybox.mat
+    projectPath: Assets\Models\urethane_hammer\Setting\Materials\skybox.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Setting\Materials\skybox.mat.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Setting\Materials\skybox.mat.meta
+    projectPath: Assets\Models\urethane_hammer\Setting\Materials\skybox.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Setting\Textures.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Setting\Textures.meta
+    projectPath: Assets\Models\urethane_hammer\Setting\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Setting\Textures\carpentry_shop_02_1k.hdr
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Setting\Textures\carpentry_shop_02_1k.hdr
+    projectPath: Assets\Models\urethane_hammer\Setting\Textures\carpentry_shop_02_1k.hdr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Setting\Textures\carpentry_shop_02_1k.hdr.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Setting\Textures\carpentry_shop_02_1k.hdr.meta
+    projectPath: Assets\Models\urethane_hammer\Setting\Textures\carpentry_shop_02_1k.hdr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Textures.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Textures.meta
+    projectPath: Assets\Models\urethane_hammer\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Textures\urethane_hammer.tga
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Textures\urethane_hammer.tga
+    projectPath: Assets\Models\urethane_hammer\Textures\urethane_hammer.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Textures\urethane_hammer.tga.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Textures\urethane_hammer.tga.meta
+    projectPath: Assets\Models\urethane_hammer\Textures\urethane_hammer.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Textures\urethane_hammer_normal.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Textures\urethane_hammer_normal.png
+    projectPath: Assets\Models\urethane_hammer\Textures\urethane_hammer_normal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Textures\urethane_hammer_normal.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Textures\urethane_hammer_normal.png.meta
+    projectPath: Assets\Models\urethane_hammer\Textures\urethane_hammer_normal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Textures\urethane_hammer_occlusion.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Textures\urethane_hammer_occlusion.png
+    projectPath: Assets\Models\urethane_hammer\Textures\urethane_hammer_occlusion.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\urethane_hammer\Textures\urethane_hammer_occlusion.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Models\urethane_hammer\Textures\urethane_hammer_occlusion.png.meta
+    projectPath: Assets\Models\urethane_hammer\Textures\urethane_hammer_occlusion.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\NavMeshes\Game.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\NavMeshes\Game.meta
+    projectPath: Assets\NavMeshes\Game.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\NavMeshes\Game\NavMesh.asset
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\NavMeshes\Game\NavMesh.asset
+    projectPath: Assets\NavMeshes\Game\NavMesh.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\NavMeshes\Game\NavMesh.asset.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\NavMeshes\Game\NavMesh.asset.meta
+    projectPath: Assets\NavMeshes\Game\NavMesh.asset.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\OnOffTvScript.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\OnOffTvScript.cs
+    projectPath: Assets\OnOffTvScript.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\OnOffTvScript.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\OnOffTvScript.cs.meta
+    projectPath: Assets\OnOffTvScript.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\OpenTextFile.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\OpenTextFile.cs
+    projectPath: Assets\OpenTextFile.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\OpenTextFile.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\OpenTextFile.cs.meta
+    projectPath: Assets\OpenTextFile.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Prefab\Ball.prefab
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Ball.prefab
     projectPath: Assets\Prefab\Ball.prefab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Prefab\Ball.prefab.meta
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Ball.prefab.meta
     projectPath: Assets\Prefab\Ball.prefab.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefab\PrefabItem.prefab
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\PrefabItem.prefab
-    projectPath: Assets\Prefab\PrefabItem.prefab
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\CubeNamberTwo.prefab
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\CubeNamberTwo.prefab
+    projectPath: Assets\Prefab\CubeNamberTwo.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefab\PrefabItem.prefab.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\PrefabItem.prefab.meta
-    projectPath: Assets\Prefab\PrefabItem.prefab.meta
+  - path: Assets\Prefab\CubeNamberTwo.prefab.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\CubeNamberTwo.prefab.meta
+    projectPath: Assets\Prefab\CubeNamberTwo.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\CubeNumberOne.prefab
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\CubeNumberOne.prefab
+    projectPath: Assets\Prefab\CubeNumberOne.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\CubeNumberOne.prefab.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\CubeNumberOne.prefab.meta
+    projectPath: Assets\Prefab\CubeNumberOne.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\ImageOne.prefab
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\ImageOne.prefab
+    projectPath: Assets\Prefab\ImageOne.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\ImageOne.prefab.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\ImageOne.prefab.meta
+    projectPath: Assets\Prefab\ImageOne.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\ImageTwo.prefab
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\ImageTwo.prefab
+    projectPath: Assets\Prefab\ImageTwo.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\ImageTwo.prefab.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\ImageTwo.prefab.meta
+    projectPath: Assets\Prefab\ImageTwo.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\PanelImage.prefab
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\PanelImage.prefab
+    projectPath: Assets\Prefab\PanelImage.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\PanelImage.prefab.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\PanelImage.prefab.meta
+    projectPath: Assets\Prefab\PanelImage.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -146,14 +1454,338 @@ MonoBehaviour:
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\rust_key.prefab
     projectPath: Assets\Prefab\rust_key.prefab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefab\rust_key.prefab.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\rust_key.prefab.meta
-    projectPath: Assets\Prefab\rust_key.prefab.meta
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefab\Tecstyre.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre.meta
+    projectPath: Assets\Prefab\Tecstyre.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Body_Diffuse.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Body_Diffuse.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Body_Diffuse.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Body_Diffuse.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Body_Diffuse.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Body_Diffuse.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Body_Gloss.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Body_Gloss.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Body_Gloss.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Body_Gloss.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Body_Gloss.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Body_Gloss.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Body_Normal.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Body_Normal.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Body_Normal.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Body_Normal.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Body_Normal.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Body_Normal.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Body_Opacity.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Body_Opacity.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Body_Opacity.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Body_Opacity.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Body_Opacity.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Body_Opacity.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Body_Specular.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Body_Specular.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Body_Specular.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Body_Specular.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Body_Specular.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Body_Specular.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Bottom_Diffuse.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Bottom_Diffuse.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Bottom_Diffuse.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Bottom_Diffuse.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Bottom_Diffuse.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Bottom_Diffuse.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Bottom_Gloss.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Bottom_Gloss.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Bottom_Gloss.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Bottom_Gloss.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Bottom_Gloss.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Bottom_Gloss.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Bottom_Normal.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Bottom_Normal.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Bottom_Normal.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Bottom_Normal.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Bottom_Normal.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Bottom_Normal.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Bottom_Opacity.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Bottom_Opacity.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Bottom_Opacity.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Bottom_Opacity.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Bottom_Opacity.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Bottom_Opacity.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Bottom_Specular.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Bottom_Specular.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Bottom_Specular.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Bottom_Specular.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Bottom_Specular.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Bottom_Specular.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Hair_Diffuse.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Hair_Diffuse.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Hair_Diffuse.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Hair_Diffuse.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Hair_Diffuse.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Hair_Diffuse.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Hair_Gloss.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Hair_Gloss.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Hair_Gloss.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Hair_Gloss.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Hair_Gloss.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Hair_Gloss.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Hair_Normal.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Hair_Normal.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Hair_Normal.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Hair_Normal.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Hair_Normal.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Hair_Normal.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Hair_Opacity.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Hair_Opacity.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Hair_Opacity.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Hair_Opacity.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Hair_Opacity.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Hair_Opacity.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Hair_Specular.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Hair_Specular.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Hair_Specular.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Hair_Specular.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Hair_Specular.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Hair_Specular.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Shoes_Diffuse.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Shoes_Diffuse.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Shoes_Diffuse.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Shoes_Diffuse.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Shoes_Diffuse.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Shoes_Diffuse.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Shoes_Gloss.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Shoes_Gloss.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Shoes_Gloss.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Shoes_Gloss.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Shoes_Gloss.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Shoes_Gloss.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Shoes_Normal.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Shoes_Normal.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Shoes_Normal.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Shoes_Normal.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Shoes_Normal.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Shoes_Normal.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Shoes_Opacity.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Shoes_Opacity.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Shoes_Opacity.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Shoes_Opacity.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Shoes_Opacity.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Shoes_Opacity.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Shoes_Specular.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Shoes_Specular.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Shoes_Specular.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Shoes_Specular.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Shoes_Specular.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Shoes_Specular.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Top_Diffuse.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Top_Diffuse.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Top_Diffuse.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Top_Diffuse.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Top_Diffuse.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Top_Diffuse.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Top_Gloss.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Top_Gloss.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Top_Gloss.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Top_Gloss.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Top_Gloss.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Top_Gloss.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Top_Normal.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Top_Normal.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Top_Normal.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Top_Normal.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Top_Normal.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Top_Normal.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Top_Opacity.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Top_Opacity.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Top_Opacity.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Top_Opacity.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Top_Opacity.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Top_Opacity.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Top_Specular.png
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Top_Specular.png
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Top_Specular.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\Tecstyre\Stefani_Top_Specular.png.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\Tecstyre\Stefani_Top_Specular.png.meta
+    projectPath: Assets\Prefab\Tecstyre\Stefani_Top_Specular.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefab\urethane_hammer.prefab
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\urethane_hammer.prefab
+    projectPath: Assets\Prefab\urethane_hammer.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Assets\Prefab\urethane_hammer.prefab.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Prefab\urethane_hammer.prefab.meta
+    projectPath: Assets\Prefab\urethane_hammer.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SafeUnlockScript.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\SafeUnlockScript.cs
+    projectPath: Assets\SafeUnlockScript.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SafeUnlockScript.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\SafeUnlockScript.cs.meta
+    projectPath: Assets\SafeUnlockScript.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scenes\Game.unity
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scenes\Game.unity
     projectPath: Assets\Scenes\Game.unity
@@ -170,14 +1802,8 @@ MonoBehaviour:
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\ScriptableObject\New Inventory Image.asset
     projectPath: Assets\ScriptableObject\New Inventory Image.asset
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\ScriptableObject\New Inventory Image.asset.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\ScriptableObject\New Inventory Image.asset.meta
-    projectPath: Assets\ScriptableObject\New Inventory Image.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\ScriptableObject\New Sound Scriptable Ob.asset
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\ScriptableObject\New Sound Scriptable
       Ob.asset
@@ -185,42 +1811,78 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Scripts\BackMainScen.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\BackMainScen.cs
+    projectPath: Assets\Scripts\BackMainScen.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\BackMainScen.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\BackMainScen.cs.meta
+    projectPath: Assets\Scripts\BackMainScen.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\Bullet.cs
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Bullet.cs
     projectPath: Assets\Scripts\Bullet.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\Bullet.cs.meta
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Bullet.cs.meta
     projectPath: Assets\Scripts\Bullet.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\BulletCreate.cs
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\BulletCreate.cs
     projectPath: Assets\Scripts\BulletCreate.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\BulletCreate.cs.meta
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\BulletCreate.cs.meta
     projectPath: Assets\Scripts\BulletCreate.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\CatMove.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\CatMove.cs
+    projectPath: Assets\Scripts\CatMove.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scripts\ChangeScen.cs
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\ChangeScen.cs
     projectPath: Assets\Scripts\ChangeScen.cs
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Assets\Scripts\ChangeScen.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\ChangeScen.cs.meta
+    projectPath: Assets\Scripts\ChangeScen.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\Character.cs
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Character.cs
     projectPath: Assets\Scripts\Character.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Scripts\DayNight.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\DayNight.cs
+    projectPath: Assets\Scripts\DayNight.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\DayNight.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\DayNight.cs.meta
+    projectPath: Assets\Scripts\DayNight.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\EnterText.cs
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\EnterText.cs
     projectPath: Assets\Scripts\EnterText.cs
@@ -233,81 +1895,51 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\ImageActive.cs
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\ImageActive.cs
-    projectPath: Assets\Scripts\ImageActive.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\ImageActive.cs.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\ImageActive.cs.meta
-    projectPath: Assets\Scripts\ImageActive.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\Inventory.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory.meta
-    projectPath: Assets\Scripts\Inventory.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assets\Scripts\Inventory\AddInventaru.cs
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\AddInventaru.cs
     projectPath: Assets\Scripts\Inventory\AddInventaru.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Inventory\AddInventaru.cs.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\AddInventaru.cs.meta
-    projectPath: Assets\Scripts\Inventory\AddInventaru.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scripts\Inventory\ImageActive.cs
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\ImageActive.cs
     projectPath: Assets\Scripts\Inventory\ImageActive.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\Inventory\ImageActive.cs.meta
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\ImageActive.cs.meta
     projectPath: Assets\Scripts\Inventory\ImageActive.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Inventory\Inventaries.cs
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\Inventaries.cs
-    projectPath: Assets\Scripts\Inventory\Inventaries.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Inventory\Inventaries.cs.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\Inventaries.cs.meta
-    projectPath: Assets\Scripts\Inventory\Inventaries.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\Inventory\InventaryItem.cs
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\InventaryItem.cs
     projectPath: Assets\Scripts\Inventory\InventaryItem.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Inventory\InventaryItem.cs.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\InventaryItem.cs.meta
-    projectPath: Assets\Scripts\Inventory\InventaryItem.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scripts\Inventory\InventoryImage.cs
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\InventoryImage.cs
     projectPath: Assets\Scripts\Inventory\InventoryImage.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\Inventory\InventoryImage.cs.meta
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\InventoryImage.cs.meta
     projectPath: Assets\Scripts\Inventory\InventoryImage.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Inventory\Pickable.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\Pickable.cs
+    projectPath: Assets\Scripts\Inventory\Pickable.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Inventory\Pickable.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Inventory\Pickable.cs.meta
+    projectPath: Assets\Scripts\Inventory\Pickable.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -316,58 +1948,64 @@ MonoBehaviour:
     projectPath: Assets\Scripts\Language\BtnSwitchLang.cs
     originalPath: 
     indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Language\BtnSwitchLang.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Language\BtnSwitchLang.cs.meta
+    projectPath: Assets\Scripts\Language\BtnSwitchLang.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Language\LocalizationManager.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Language\LocalizationManager.cs
+    projectPath: Assets\Scripts\Language\LocalizationManager.cs
+    originalPath: 
+    indexStatus: 0
     workTreeStatus: 3
   - path: Assets\Scripts\MoveMenu.cs
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\MoveMenu.cs
     projectPath: Assets\Scripts\MoveMenu.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\MoveMenu.cs.meta
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\MoveMenu.cs.meta
     projectPath: Assets\Scripts\MoveMenu.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\ObjectDisappearance.cs
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\ObjectDisappearance.cs
     projectPath: Assets\Scripts\ObjectDisappearance.cs
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Open\FrameOpen.cs
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Open\FrameOpen.cs
-    projectPath: Assets\Scripts\Open\FrameOpen.cs
+    workTreeStatus: 5
+  - path: Assets\Scripts\ObjectDisappearance.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\ObjectDisappearance.cs.meta
+    projectPath: Assets\Scripts\ObjectDisappearance.cs.meta
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Open\Interaction.cs
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Open\Interaction.cs
-    projectPath: Assets\Scripts\Open\Interaction.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Open\Interaction.cs.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Open\Interaction.cs.meta
-    projectPath: Assets\Scripts\Open\Interaction.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Open\LaptopOpen.cs
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Open\LaptopOpen.cs
-    projectPath: Assets\Scripts\Open\LaptopOpen.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Assets\Scripts\Open\OpenDoor.cs
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Open\OpenDoor.cs
     projectPath: Assets\Scripts\Open\OpenDoor.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\Open\OtherOpen.cs
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Open\OtherOpen.cs
-    projectPath: Assets\Scripts\Open\OtherOpen.cs
+  - path: Assets\Scripts\Open\OpenHint.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Open\OpenHint.cs
+    projectPath: Assets\Scripts\Open\OpenHint.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Open\OpenHint.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Open\OpenHint.cs.meta
+    projectPath: Assets\Scripts\Open\OpenHint.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Open\OpenPazzle.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Open\OpenPazzle.cs
+    projectPath: Assets\Scripts\Open\OpenPazzle.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -377,6 +2015,36 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Scripts\Password.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Password.meta
+    projectPath: Assets\Scripts\Password.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Password\ImageActive.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Password\ImageActive.cs
+    projectPath: Assets\Scripts\Password\ImageActive.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Password\ImageActive.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Password\ImageActive.cs.meta
+    projectPath: Assets\Scripts\Password\ImageActive.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Password\ObjectDisappearance.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Password\ObjectDisappearance.cs
+    projectPath: Assets\Scripts\Password\ObjectDisappearance.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Password\ObjectDisappearance.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Password\ObjectDisappearance.cs.meta
+    projectPath: Assets\Scripts\Password\ObjectDisappearance.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Scripts\Pazzle\GetCode.cs
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Pazzle\GetCode.cs
     projectPath: Assets\Scripts\Pazzle\GetCode.cs
@@ -387,41 +2055,137 @@ MonoBehaviour:
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Pickable.cs
     projectPath: Assets\Scripts\Pickable.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\Pickable.cs.meta
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Pickable.cs.meta
     projectPath: Assets\Scripts\Pickable.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Save.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Save.meta
-    projectPath: Assets\Scripts\Save.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Save\NoSaveOrSave.cs
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Save\NoSaveOrSave.cs
-    projectPath: Assets\Scripts\Save\NoSaveOrSave.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Save\NoSaveOrSave.cs.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Save\NoSaveOrSave.cs.meta
-    projectPath: Assets\Scripts\Save\NoSaveOrSave.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\Save\SaveGame.cs
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Save\SaveGame.cs
     projectPath: Assets\Scripts\Save\SaveGame.cs
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Scene.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Scene.meta
+    projectPath: Assets\Scripts\Scene.meta
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Scripts\Save\SaveGame.cs.meta
-    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Save\SaveGame.cs.meta
-    projectPath: Assets\Scripts\Save\SaveGame.cs.meta
+  - path: Assets\Scripts\Scene\BackMainScen.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Scene\BackMainScen.cs
+    projectPath: Assets\Scripts\Scene\BackMainScen.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Scene\BackMainScen.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Scene\BackMainScen.cs.meta
+    projectPath: Assets\Scripts\Scene\BackMainScen.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Scene\ChangeScen.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Scene\ChangeScen.cs
+    projectPath: Assets\Scripts\Scene\ChangeScen.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Scene\ChangeScen.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Scene\ChangeScen.cs.meta
+    projectPath: Assets\Scripts\Scene\ChangeScen.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Scene\DayNight.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Scene\DayNight.cs
+    projectPath: Assets\Scripts\Scene\DayNight.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Scene\DayNight.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Scene\DayNight.cs.meta
+    projectPath: Assets\Scripts\Scene\DayNight.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Scene\MoveMenu.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Scene\MoveMenu.cs
+    projectPath: Assets\Scripts\Scene\MoveMenu.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Scene\MoveMenu.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Scene\MoveMenu.cs.meta
+    projectPath: Assets\Scripts\Scene\MoveMenu.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Scene\SetObjectToScen.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Scene\SetObjectToScen.cs
+    projectPath: Assets\Scripts\Scene\SetObjectToScen.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Scene\SetObjectToScen.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Scene\SetObjectToScen.cs.meta
+    projectPath: Assets\Scripts\Scene\SetObjectToScen.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Scene\TimePlay.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Scene\TimePlay.cs
+    projectPath: Assets\Scripts\Scene\TimePlay.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Scene\TimePlay.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Scene\TimePlay.cs.meta
+    projectPath: Assets\Scripts\Scene\TimePlay.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Scene\TvVideo.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Scene\TvVideo.cs
+    projectPath: Assets\Scripts\Scene\TvVideo.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Scene\TvVideo.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\Scene\TvVideo.cs.meta
+    projectPath: Assets\Scripts\Scene\TvVideo.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ScriptObject.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\ScriptObject.meta
+    projectPath: Assets\Scripts\ScriptObject.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ScriptObject\InventoryImage.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\ScriptObject\InventoryImage.cs
+    projectPath: Assets\Scripts\ScriptObject\InventoryImage.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ScriptObject\InventoryImage.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\ScriptObject\InventoryImage.cs.meta
+    projectPath: Assets\Scripts\ScriptObject\InventoryImage.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ScriptObject\SoundScriptableOb.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\ScriptObject\SoundScriptableOb.cs
+    projectPath: Assets\Scripts\ScriptObject\SoundScriptableOb.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ScriptObject\SoundScriptableOb.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\ScriptObject\SoundScriptableOb.cs.meta
+    projectPath: Assets\Scripts\ScriptObject\SoundScriptableOb.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -430,7 +2194,49 @@ MonoBehaviour:
     projectPath: Assets\Scripts\SoundScriptableOb.cs
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Assets\Scripts\SoundScriptableOb.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\SoundScriptableOb.cs.meta
+    projectPath: Assets\Scripts\SoundScriptableOb.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\TvVideo.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\TvVideo.cs
+    projectPath: Assets\Scripts\TvVideo.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\TvVideo.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Scripts\TvVideo.cs.meta
+    projectPath: Assets\Scripts\TvVideo.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sounds\button.mp3
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Sounds\button.mp3
+    projectPath: Assets\Sounds\button.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\button.mp3.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Sounds\button.mp3.meta
+    projectPath: Assets\Sounds\button.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\send.mp3
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Sounds\send.mp3
+    projectPath: Assets\Sounds\send.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\send.mp3.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\Sounds\send.mp3.meta
+    projectPath: Assets\Sounds\send.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\StreamingAssets\Languages\en_US.json
     fullPath: D:\Uladzimir\OpenTheDoor\Assets\StreamingAssets\Languages\en_US.json
     projectPath: Assets\StreamingAssets\Languages\en_US.json
@@ -443,24 +2249,24 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\useHandle.cs
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\useHandle.cs
+    projectPath: Assets\useHandle.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\useHandle.cs.meta
+    fullPath: D:\Uladzimir\OpenTheDoor\Assets\useHandle.cs.meta
+    projectPath: Assets\useHandle.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\ArtifactDB
     fullPath: D:\Uladzimir\OpenTheDoor\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\22\22bd6ecd77771bfa7f50050d95ef5f30
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\Artifacts\22\22bd6ecd77771bfa7f50050d95ef5f30
-    projectPath: Library\Artifacts\22\22bd6ecd77771bfa7f50050d95ef5f30
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5d\5d9ec1a2b2cbe56d33ebfb2b52ddde31
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\Artifacts\5d\5d9ec1a2b2cbe56d33ebfb2b52ddde31
-    projectPath: Library\Artifacts\5d\5d9ec1a2b2cbe56d33ebfb2b52ddde31
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\Bee\1900b0aEDbg.dag
     fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\1900b0aEDbg.dag
     projectPath: Library\Bee\1900b0aEDbg.dag
@@ -500,6 +2306,12 @@ MonoBehaviour:
   - path: Library\Bee\1900b0aP.dag_derived
     fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\1900b0aP.dag_derived
     projectPath: Library\Bee\1900b0aP.dag_derived
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\1900b0aP.dag_fsmtime
+    fullPath: D:\Uladzimir\OpenTheDoor\Library\Bee\1900b0aP.dag_fsmtime
+    projectPath: Library\Bee\1900b0aP.dag_fsmtime
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -713,12 +2525,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
-    fullPath: D:\Uladzimir\OpenTheDoor\Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
-    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
     fullPath: D:\Uladzimir\OpenTheDoor\Library\PlayerDataCache\Win64\Data\sharedassets1.assets
     projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
@@ -802,22 +2608,28 @@ MonoBehaviour:
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
     indexStatus: 0
+    workTreeStatus: 5
+  - path: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    fullPath: D:\Uladzimir\OpenTheDoor\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: D:\Uladzimir\OpenTheDoor\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\NavMeshAreas.asset
+    fullPath: D:\Uladzimir\OpenTheDoor\ProjectSettings\NavMeshAreas.asset
+    projectPath: ProjectSettings\NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 0
     workTreeStatus: 3
   - path: ProjectSettings\TagManager.asset
     fullPath: D:\Uladzimir\OpenTheDoor\ProjectSettings\TagManager.asset
     projectPath: ProjectSettings\TagManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: UserSettings\EditorUserSettings.asset
-    fullPath: D:\Uladzimir\OpenTheDoor\UserSettings\EditorUserSettings.asset
-    projectPath: UserSettings\EditorUserSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: UserSettings\Layouts\CurrentMaximizeLayout.dwlt
-    fullPath: D:\Uladzimir\OpenTheDoor\UserSettings\Layouts\CurrentMaximizeLayout.dwlt
-    projectPath: UserSettings\Layouts\CurrentMaximizeLayout.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

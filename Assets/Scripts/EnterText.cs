@@ -43,8 +43,9 @@ public class EnterText : MonoBehaviour
     {        
         if (text.text == ANSWER)
         {
+            audioSource.PlayOneShot(soundScriptableOb.GetAudio(AudioType.send));
             number.SetActive(true);
-            gameObject.SetActive(false);
+            StartCoroutine(noActive());
             imageRiddle.gameObject.SetActive(true);
         }
         else StartCoroutine(mistake());        
@@ -61,5 +62,11 @@ public class EnterText : MonoBehaviour
         _exseption.gameObject.SetActive(true);
         yield return new WaitForSeconds(2f);
         _exseption.gameObject.SetActive(false);
+    }
+
+    private IEnumerator noActive()
+    {    
+        yield return new WaitForSeconds(1f);
+        gameObject.SetActive(false);
     }
 }

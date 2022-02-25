@@ -50,22 +50,13 @@ public class LocalizationManager : MonoBehaviour
 
     public void LoadLocalizedText(string langName)
     {
-        string path = Application.streamingAssetsPath + "/Languages/" + langName + ".json";
+       
+        string path = Path.Combine(Application.streamingAssetsPath + "/Languages/" + langName + ".json");
 
         string dataAsJson;
 
-        //if (Application.platform == RuntimePlatform.Android)
-        //{
-        //    WWW reader = new WWW(path);
-        //    while (!reader.isDone) { }
-
-        //    dataAsJson = reader.text;
-        //}
-        //else
-        //{
             dataAsJson = File.ReadAllText(path);
-        //}
-
+  
         LocalizationData loadedData = JsonUtility.FromJson<LocalizationData>(dataAsJson);
 
         localizedText = new Dictionary<string, string>();
@@ -89,7 +80,7 @@ public class LocalizationManager : MonoBehaviour
         }
         else
         {
-            throw new Exception("Localized text with key \"" + key + "\" not found");
+            throw new Exception($"Localized text with key {key} not found");
         }
     }
 }

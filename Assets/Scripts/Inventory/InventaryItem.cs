@@ -7,7 +7,7 @@ public class InventaryItem : MonoBehaviour
 {
     [SerializeField] private Image image;
     [SerializeField] private InventoryImage inventoryImage;
-    private InventaryType type;
+    public InventaryType type;
 
     public void setItemType(InventaryType type)
     {

@@ -111,4 +111,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 068c2fa2e4aba4e42a833e4b42a3a094, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickups: 0
+  inventaryType: 0
+  typeNumber: 3
