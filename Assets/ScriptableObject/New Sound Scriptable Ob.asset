@@ -20,7 +20,7 @@ MonoBehaviour:
   - audioType: 2
     audioClip: {fileID: 8300000, guid: 55c5e8fa8c989594c8f5cc0719fc2244, type: 3}
   - audioType: 3
-    audioClip: {fileID: 8300000, guid: 82616a1eeabbbb24a8e38f7d3421b574, type: 3}
+    audioClip: {fileID: 8300000, guid: 2249b58f00d4be7408a1d63978f1a0b8, type: 3}
   - audioType: 4
     audioClip: {fileID: 8300000, guid: 5025627fbbaf3dd4297f1338d6e4301a, type: 3}
   - audioType: 6
@@ -37,3 +37,5 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: aad0f20fb43097f43ac89f5f944d0074, type: 3}
   - audioType: 11
     audioClip: {fileID: 8300000, guid: cae602f16aa323d4abc98bb2d0444efa, type: 3}
+  - audioType: 12
+    audioClip: {fileID: 8300000, guid: 6d127417a14272f4caf1feabd05a52b1, type: 3}

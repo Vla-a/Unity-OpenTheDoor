@@ -2091,6 +2091,7 @@ GameObject:
   - component: {fileID: 1474877899}
   - component: {fileID: 1474877901}
   - component: {fileID: 1474877900}
+  - component: {fileID: 1474877902}
   m_Layer: 5
   m_Name: TextVolume
   m_TagString: Untagged
@@ -2160,6 +2161,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1474877898}
   m_CullTransparentMesh: 1
+--- !u!114 &1474877902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1474877898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75258ea509a86434a8888ee1aeeac48c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: Volume
 --- !u!1 &1600665517
 GameObject:
   m_ObjectHideFlags: 0

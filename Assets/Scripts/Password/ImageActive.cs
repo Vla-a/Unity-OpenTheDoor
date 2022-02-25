@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class ImageActive : MonoBehaviour , Interaction
 {
-    [SerializeField] private SoundScriptableOb soundScriptableOb;
-    private AudioSource audioSource;
     public TypeNumber typeItem;
 
     private void Start()

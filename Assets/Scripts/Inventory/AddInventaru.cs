@@ -5,8 +5,11 @@ using UnityEngine.UI;
 
 public class AddInventaru : MonoBehaviour
 {
+    
     [SerializeField] private InventaryItem prefubItem;    
     [SerializeField] private GameObject parentForInventorySlot;
+    [SerializeField] private SoundScriptableOb soundScriptableOb;
+    private AudioSource audioSource;
     private List<InventaryType> list;
 
     private void Awake()
@@ -16,7 +19,7 @@ public class AddInventaru : MonoBehaviour
     private void Start()
     {
         GameController.Instance.Inventary += AddItem;
-        
+        audioSource = GetComponent<AudioSource>();
     }
 
     private void OnDestroy()
@@ -27,8 +30,8 @@ public class AddInventaru : MonoBehaviour
     public void AddItem(InventaryType inventaryType)    {
 
         InventaryItem inventorySlot = Instantiate(prefubItem, parentForInventorySlot.transform);        
-        inventorySlot.setItemType(inventaryType); 
-        
+        inventorySlot.setItemType(inventaryType);
+        audioSource.PlayOneShot(soundScriptableOb.GetAudio(AudioType.giveObject));
         list.Add(inventorySlot.type);       
     }
 
