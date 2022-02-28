@@ -60,10 +60,8 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -164,67 +162,67 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3450}
     - Class: 114
-      Script: {instanceID: 3828}
+      Script: {instanceID: 3826}
     - Class: 114
-      Script: {instanceID: 4376}
+      Script: {instanceID: 4374}
     - Class: 114
-      Script: {instanceID: 4474}
+      Script: {instanceID: 4472}
     - Class: 114
-      Script: {instanceID: 5328}
+      Script: {instanceID: 5326}
     - Class: 114
-      Script: {instanceID: 5418}
+      Script: {instanceID: 5416}
     - Class: 114
-      Script: {instanceID: 5600}
+      Script: {instanceID: 5598}
     - Class: 114
-      Script: {instanceID: 5618}
+      Script: {instanceID: 5616}
     - Class: 114
-      Script: {instanceID: 5656}
+      Script: {instanceID: 5654}
     - Class: 114
-      Script: {instanceID: 5680}
+      Script: {instanceID: 5678}
     - Class: 114
-      Script: {instanceID: 5904}
+      Script: {instanceID: 5902}
     - Class: 114
-      Script: {instanceID: 5980}
+      Script: {instanceID: 5978}
     - Class: 114
-      Script: {instanceID: 6172}
+      Script: {instanceID: 6170}
     - Class: 114
-      Script: {instanceID: 6212}
+      Script: {instanceID: 6210}
     - Class: 114
-      Script: {instanceID: 6362}
+      Script: {instanceID: 6360}
     - Class: 114
-      Script: {instanceID: 6368}
+      Script: {instanceID: 6366}
     - Class: 114
-      Script: {instanceID: 6402}
+      Script: {instanceID: 6400}
     - Class: 114
-      Script: {instanceID: 6412}
+      Script: {instanceID: 6410}
     - Class: 114
-      Script: {instanceID: 6820}
+      Script: {instanceID: 6818}
     - Class: 114
-      Script: {instanceID: 6860}
+      Script: {instanceID: 6858}
+    - Class: 114
+      Script: {instanceID: 6924}
     - Class: 114
       Script: {instanceID: 6926}
     - Class: 114
-      Script: {instanceID: 6928}
+      Script: {instanceID: 7042}
     - Class: 114
-      Script: {instanceID: 7044}
+      Script: {instanceID: 7220}
     - Class: 114
-      Script: {instanceID: 7222}
+      Script: {instanceID: 7352}
     - Class: 114
-      Script: {instanceID: 7354}
+      Script: {instanceID: 7398}
     - Class: 114
-      Script: {instanceID: 7400}
+      Script: {instanceID: 7530}
     - Class: 114
-      Script: {instanceID: 7532}
+      Script: {instanceID: 7672}
     - Class: 114
-      Script: {instanceID: 7674}
+      Script: {instanceID: 8086}
     - Class: 114
-      Script: {instanceID: 8088}
+      Script: {instanceID: 8504}
     - Class: 114
-      Script: {instanceID: 8506}
+      Script: {instanceID: 8718}
     - Class: 114
-      Script: {instanceID: 8722}
-    - Class: 114
-      Script: {instanceID: 26132}
+      Script: {instanceID: 26206}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -311,25 +309,25 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3450}
     - Class: 114
-      Script: {instanceID: 4488}
+      Script: {instanceID: 4486}
     - Class: 114
-      Script: {instanceID: 4610}
+      Script: {instanceID: 4608}
     - Class: 114
-      Script: {instanceID: 4900}
+      Script: {instanceID: 4898}
     - Class: 114
-      Script: {instanceID: 5610}
+      Script: {instanceID: 5608}
     - Class: 114
-      Script: {instanceID: 5700}
+      Script: {instanceID: 5698}
     - Class: 114
-      Script: {instanceID: 5980}
+      Script: {instanceID: 5978}
     - Class: 114
-      Script: {instanceID: 6402}
+      Script: {instanceID: 6400}
     - Class: 114
-      Script: {instanceID: 6820}
+      Script: {instanceID: 6818}
     - Class: 114
-      Script: {instanceID: 6926}
+      Script: {instanceID: 6924}
     - Class: 114
-      Script: {instanceID: 7394}
+      Script: {instanceID: 7392}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
